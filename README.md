@@ -13,6 +13,8 @@ The theme is called CZ.
 ## TODO
 
 - Home background images
-- Design section
+- Design section [back button]
 - Art clickable images
 - More about section
+- Get SSL Certificate
+- Fade in content
