@@ -3,7 +3,7 @@
         <span class="navlink">
             <a href="/">Home</a>
         </span>
-    {{ range where .Site.Pages.ByWeight "Dir" "/" }}
+    {{ range where .Site.Pages.ByWeight "Params.nav" 1 }}
         <span class="navsep"></span>
         <span class="navlink">
             <a href={{.Permalink}}>{{ .Title }}</a>

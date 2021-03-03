@@ -14,6 +14,7 @@ The theme is called CZ.
 
 - Home background images
 - Design section [back button]
+- Engineering section [like design]
 - Art clickable images
 - More about section
 - Get SSL Certificate
