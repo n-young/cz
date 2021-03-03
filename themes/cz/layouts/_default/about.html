@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div id="main">
+    <div id="about">
+        <img src='{{ "img/portrait.webp" | absURL }}' />
+        <div class="aboutcontent">
+            <h1>{{ .Title }}</h1>
+            {{- .Content -}}
+            <a href='{{ "resume.docx" | absURL }}'><button>Resume</button></a>
+
+            <h1>Contact</h1>
+            [<a href="mailto:christine_zhou@brown.edu">Email</a>]
+        </div>
+    </div>
+</div>
+{{ end }}

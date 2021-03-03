@@ -1,0 +1,13 @@
+<nav>
+    <div class="navholder">
+        <span class="navlink">
+            <a href="/">Home</a>
+        </span>
+    {{ range where .Site.Pages.ByWeight "Dir" "/" }}
+        <span class="navsep"></span>
+        <span class="navlink">
+            <a href={{.Permalink}}>{{ .Title }}</a>
+        </span>
+    {{ end }}
+    </div>
+</nav>

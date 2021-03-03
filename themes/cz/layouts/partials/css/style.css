@@ -1,0 +1,255 @@
+/* ================== */
+/* HOUSEKEEPING */
+/* ================== */
+
+:root {
+    --sm-width: 768px;
+    --md-width: 992px;
+    --lg-width: 1200px;
+    --color-light-gray: #999;
+    --color-gray: #666;
+    --color-dark-gray: #555;
+    --color-black: #000;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 12px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 1.75rem;
+}
+
+button {
+    border: none;
+    background-color: var(--color-gray);
+    color: white;
+    padding: 15px 30px;
+}
+
+button:hover {
+    background-color: var(--color-dark-gray);
+}
+
+/* ================== */
+/* NAV */
+/* ================== */
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+div.navholder {
+    width: 90%;
+    max-width: var(--md-width);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+span.navlink {
+    margin: 20px;
+}
+
+span.navlink > a {
+    color: var(--color-gray);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+span.navlink > a:hover {
+    color: var(--color-light-gray);
+}
+
+span.navsep {
+    height: 3rem;
+    border-right: 2px var(--color-light-gray) solid;
+}
+
+/* ================== */
+/* MAIN */
+/* ================== */
+
+main#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div#main {
+    width: 90%;
+    max-width: var(--md-width);
+}
+
+div.hero {
+    margin: 50px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div.hero > a > img.hero-img {
+    width: 150px;
+}
+
+div.hero > h1.hero-header {
+    color: var(--color-black);
+    font-weight: 600;
+}
+
+div.hero > h2.hero-subheader {
+    color: var(--color-gray);
+    font-weight: 400;
+}
+
+/* ================== */
+/* HOME */
+/* ================== */
+
+div.landingoptions {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+div.landingoptions > a {
+    color: var(--color-black);
+    text-decoration: none;
+    transition: transform 0.25s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 30vh;
+    background-color: salmon;
+    color: white;
+    margin: 10px;
+}
+
+div.landingoptions > a:hover {
+    transform: scale(1.05);
+}
+
+/* ================== */
+/* PORTFOLIO */
+/* ================== */
+
+/* ================== */
+/* ART */
+/* ================== */
+
+div#art {
+    text-align: center;
+}
+
+div#art > h1 {
+    margin: 80px 0 40px 0;
+}
+
+div#art > div.artsection {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+@media (max-width: 992px) {
+    div#art > div.artsection {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+div#art > div.artsection > img {
+    /* TODO: Make this better */
+    width: 225px;
+    height: 225px;
+    object-fit: cover;
+    margin: auto;
+    transition: transform 0.25s;
+}
+
+div#art > div.artsection > img:hover {
+    /* TODO: Make it so that clicking opens a larger view */
+    transform: scale(1.05);
+}
+
+/* ================== */
+/* ABOUT */
+/* ================== */
+
+div#about {
+    display: flex;
+}
+
+div#about > img {
+    margin: 20px;
+}
+
+div#about > div.aboutcontent {
+    margin: 20px;
+}
+
+div#about > div.aboutcontent > h1 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+
+/* ================== */
+/* FOOTER */
+/* ================== */
+
+footer#footer {
+    margin-top: 10vh;
+    padding: 0;
+    background-color: var(--color-black);
+    color: white;
+}
+
+footer#footer div#bottombar {
+    text-align: right;
+    padding: 0 20px;
+}
+
+footer#footer div#bottombar a {
+    color: white;
+}
