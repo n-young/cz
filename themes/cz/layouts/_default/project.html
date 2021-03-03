@@ -5,7 +5,7 @@
             {{ $folder := ( .Params.name | printf "/img/design/%s/" ) }}
             {{ $files := readDir ( $folder | printf "/static%s" ) }}
             {{ range $files }}
-            <img class="artimage fade" src="{{$folder}}/{{.Name}}" alt="{{.Name}}" />
+            <img class="artimage fade" loading="lazy" src="{{$folder}}/{{.Name}}" alt="{{.Name}}" />
             {{ end }}
         {{ end }}
     </div>
