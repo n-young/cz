@@ -211,6 +211,7 @@ div#design > div.designsection {
 }
 
 div#design > div.designsection > a > img {
+    background-color: aliceblue;
     width: 300px;
     height: 225px;
     object-fit: cover;
@@ -238,6 +239,7 @@ div#project > div.projectpanel {
 }
 
 div#project > div.projectpanel > img {
+    background-color: aliceblue;
     width: 100%
 }
 
@@ -267,6 +269,7 @@ div#art > div.artsection {
 }
 
 div#art > div.artsection > img {
+    background-color: aliceblue;
     width: 225px;
     height: 225px;
     object-fit: cover;
@@ -300,6 +303,7 @@ div#art > div.artsection > div.artlightbox > h1 {
 }
 
 div#art > div.artsection > div.artlightbox > img {
+    background-color: aliceblue;
     max-height: 60vh;
     max-width: 50vw;
 }
@@ -319,6 +323,7 @@ div#about {
 }
 
 div#about > img {
+    background-color: aliceblue;
     margin: 20px;
 }
 
