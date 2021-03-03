@@ -1,8 +1,8 @@
 ---
 title: "About"
 layout: "about"
+type: "nav"
 weight: 3
-nav: 1
 ---
 
 Hello! I'm Christine Zhou, a sophomore studying Mechanical Engineering and Visual Art at Brown University. 

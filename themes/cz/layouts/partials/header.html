@@ -15,7 +15,7 @@
         <span class="navlink">
             <a href="/about">About</a>
         </span>
-    <!-- {{ range where .Site.Pages.ByWeight "Params.nav" 1 }}
+    <!-- {{ range where .Site.Pages.ByWeight "Params.type" "nav" }}
         <span class="navsep"></span>
         <span class="navlink">
             <a href={{.Permalink}}>{{ .Title }}</a>

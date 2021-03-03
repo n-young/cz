@@ -54,10 +54,27 @@ button {
     background-color: var(--color-gray);
     color: white;
     padding: 15px 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 button:hover {
     background-color: var(--color-dark-gray);
+}
+
+/* =================================== */
+/* EFFECTS */
+/* =================================== */
+
+.fade {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.faded-in {
+    opacity: 1;
+    transform: translateY(0px);
 }
 
 /* ================== */
@@ -156,22 +173,73 @@ div.landingoptions > a {
     text-decoration: none;
     transition: transform 0.25s;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     width: 100%;
     height: 30vh;
-    background-color: salmon;
-    color: white;
     margin: 10px;
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
 }
 
 div.landingoptions > a:hover {
     transform: scale(1.05);
 }
 
+div.landingoptions > a > div.landingoption{
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+}
+
 /* ================== */
 /* DESIGN */
 /* ================== */
+
+div#design > div.designsection {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+@media (max-width: 992px) {
+    div#design > div.designsection {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+div#design > div.designsection > a > img {
+    width: 300px;
+    height: 225px;
+    object-fit: cover;
+    margin: auto;
+    transition: opacity 0.2s ease-in-out, transform 0.25s ease-in-out;
+}
+
+div#design > div.designsection > a > img:hover {
+    transform: scale(1.05);
+}
+
+/* ================== */
+/* PROJECT */
+/* ================== */
+
+div#project {
+    display: flex;
+    max-width: var(--lg-width);
+    width: 90%;
+}
+
+div#project > div.projectpanel {
+    width: 50%;
+    margin: 20px;
+}
+
+div#project > div.projectpanel > img {
+    width: 100%
+}
 
 /* ================== */
 /* ART */
@@ -199,17 +267,41 @@ div#art > div.artsection {
 }
 
 div#art > div.artsection > img {
-    /* TODO: Make this better */
     width: 225px;
     height: 225px;
     object-fit: cover;
     margin: auto;
-    transition: transform 0.25s;
+    transition: opacity 0.2s ease-in-out, transform 0.25s ease-in-out;
 }
 
 div#art > div.artsection > img:hover {
-    /* TODO: Make it so that clicking opens a larger view */
     transform: scale(1.05);
+}
+
+div#art > div.artsection > div.artlightbox {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    padding: 15vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.25s;
+    opacity: 0;
+}
+
+div#art > div.artsection > div.artlightbox > h1 {
+    margin: 10px;
+}
+
+div#art > div.artsection > div.artlightbox > img {
+    max-height: 60vh;
+    max-width: 50vw;
 }
 
 /* ================== */
@@ -218,6 +310,12 @@ div#art > div.artsection > img:hover {
 
 div#about {
     display: flex;
+}
+
+@media (max-width: 992px) {
+    div#about {
+        flex-direction: column;
+    }
 }
 
 div#about > img {
@@ -233,6 +331,23 @@ div#about > div.aboutcontent > h1 {
     margin-bottom: 10px;
 }
 
+div#about > div.aboutcontent > a.contactlink {
+    color: var(--color-gray);
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.2s;
+    margin: 10px;
+}
+
+div#about > div.aboutcontent > a.contactlink:hover {
+    color: var(--color-light-gray);
+}
+
+div#about > div.aboutcontent > span.contactsep {
+    height: 3rem;
+    border-right: 2px var(--color-light-gray) solid;
+    margin: 0;
+}
 
 /* ================== */
 /* FOOTER */

@@ -12,10 +12,5 @@ The theme is called CZ.
 
 ## TODO
 
-- Home background images
-- Design section [back button]
-- Engineering section [like design]
-- Art clickable images
-- More about section
+- Engineering section
 - Get SSL Certificate
-- Fade in content

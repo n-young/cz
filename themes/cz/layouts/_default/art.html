@@ -1,30 +1,42 @@
 {{ define "main" }}
 <div id="main">
     <div id="art">
-        <h1>Illustration</h1>
+        <h1 class="fade">Illustration</h1>
         <div class="artsection" id="illustration">
             {{ $folder := "/img/illustration/"}}
-            {{ $files := readDir ($folder | printf "/static/%s") }}
+            {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <div class="artlightbox">
+                <h1>{{ substr .Name 0 -4 }}</h1>
+                <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            </div>
             {{ end }}
         </div>
 
-        <h1>Painting</h1>
+        <h1 class="fade">Painting</h1>
         <div class="artsection" id="painting">
             {{ $folder := "/img/painting/"}}
-            {{ $files := readDir ($folder | printf "/static/%s") }}
+            {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <div class="artlightbox">
+                <h1>{{ substr .Name 0 -4 }}</h1>
+                <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            </div>
             {{ end }}
         </div>
 
-        <h1>Photography</h1>
+        <h1 class="fade">Photography</h1>
         <div class="artsection" id="photography">
             {{ $folder := "/img/photography/"}}
-            {{ $files := readDir ($folder | printf "/static/%s") }}
+            {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <div class="artlightbox">
+                <h1>{{ substr .Name 0 -4 }}</h1>
+                <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            </div>
             {{ end }}
         </div>
     </div>

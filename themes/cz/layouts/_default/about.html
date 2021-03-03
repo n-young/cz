@@ -1,14 +1,17 @@
 {{ define "main" }}
 <div id="main">
-    <div id="about">
+    <div class="fade" id="about">
         <img src="/img/portrait.webp" />
         <div class="aboutcontent">
             <h1>{{ .Title }}</h1>
             {{- .Content -}}
             <a href="/resume.docx"><button>Resume</button></a>
-
             <h1>Contact</h1>
-            [<a href="mailto:christine_zhou@brown.edu">Email</a>]
+            <a class="contactlink" href="mailto:christine_zhou@brown.edu">Email</a>
+            <span class="contactsep"></span>
+            <a class="contactlink" href="https://www.instagram.com/christineezhou/">Instagram</a>
+            <span class="contactsep"></span>
+            <a class="contactlink" href="https://www.linkedin.com/in/christine-zhou-2a3028197/">LinkedIn</a>
         </div>
     </div>
 </div>

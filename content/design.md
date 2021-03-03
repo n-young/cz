@@ -1,6 +1,6 @@
 ---
 title: "Design"
 layout: "design"
+type: "nav"
 weight: 1
-nav: 1
 ---
