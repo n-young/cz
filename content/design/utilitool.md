@@ -16,24 +16,38 @@ This project aims to design and manufacture a universal tool, the UtiliTool, to 
 ## Problem
 
 1) Viral spread
+
 2) A strong but diffused light source is needed in a specific location, but lamps are not conveniently portable due to their size and weight.
 
 
 ## Process
 
 1) Understand the competitive landscape: conduct secondary market research
+
 2) Do background research on people’s needs, what surfaces they commonly touch, what designs are ergonomic, target consumer population
+
 3) Focus on a specific demographic?
+
 4) Draft multiple designs (user-centered design)
+
 5) Receive other people’s opinions on the designs
+
 6) Decide on a single design keeping others’ feedback and competition in mind
+
 7) Model design in SolidWorks, keeping aesthetics and ergonomics in mind
+
 8) 3D print the prototype
+
 9) Make adjustments, possibly another design iteration
+
 10) 3D print the prototype
+
 11) Repeat steps 7-10 as many times as necessary
+
 12) Test out prototype in different situations
+
 13) Get estimated cost price, selling price, how it’ll be sold to consumers (Amazon, Target etc.)
+
 
 
 ## Ideation
@@ -41,9 +55,13 @@ This project aims to design and manufacture a universal tool, the UtiliTool, to 
 In the end, I decided on Design 5, considering the opinions of my friends as well.
 
 Design 5 is highly flexible in its potential uses:
+
 - interacting with round doorknobs, bar-shaped door handles, shopping carts, elevator buttons, credit card scanners
+
 - aesthetically pleasing, appealing to both younger and older populations
+
 - can be attached to belt loops, carabiners, key holders, backpack straps, and more -- making it easily transportable and accessible
+
 
 
 ## Research
@@ -65,13 +83,19 @@ Given the maximum allowed stress of 10 - 40 MPa, we can calculate the area of th
 σ=F/A
 
 10 MPa = (40 N)/A
+
 A = (40 N)/(10 N/mm^2)
+
 A = 4 mm^2 = 0.00620001 in^2
+
 
 Since this cross sectional area of 0.00620001 in2 is too small, we’ll have to increase the amount of force that the user exerts on the tool. Ideally, the cross sectional area will be 0.09375 in^2.
 
+
 10 MPa = F / 0.09375 in^2
+
 10 MPa = F / 60.48375 mm^2
+
 F = 604.8375 N
 
 Since this force is too large to expect a human to exert with only their arms and wrists, we can safely assume that the tool will not be plastically deformed (bent beyond elastic return).
@@ -82,20 +106,30 @@ Since this force is too large to expect a human to exert with only their arms an
 Assuming that people who wear masks would be willing to pick up a tool such as the UtiliTool, we analyze the percentage of people who wear masks to determine our potential consumer population.
 
 Data from the New York Times show the following survey information:
+
 - 67 percent of women said they had worn a mask outside their home, compared with 56 percent of men, according to the Gallup poll (https://www.nytimes.com/2020/06/02/health/coronavirus-face-masks-surveys.html).
 
 Potential biases to note:
+
 - The New York Times is a left-leaning publication
+
 - Gallup polls are subject to volunteer bias
+
 - People who don’t have access to computers/phones might not have been polled, skewing the percentage of mask wearers one way or the other
 
+
 Looking at Statista data for US populations, we can find the total populations of women and men, separately (https://www.statista.com/statistics/737923/us-population-by-gender/).
+
 - Women: 169.22 million
+
 - Men: 162.59 million
 
 Applying the percentage of men and women who wear masks, we do the following calculations:
+
 Women: 0.67 * 169.22 * 10^6 = 113377400
+
 Men: 0.56 * 162.59 * 10^6 = 91050400
+
 Total: 113377400 + 91050400 = 204427800
 
 
@@ -105,13 +139,16 @@ https://www.racedayquads.com/products/sainsmart-flexible-tpu-3d-printing-filamen
 
 The UtiliTool has a mass of 0.06 lbs.
 
+
 Approximation of Unit Cost printed with TPU Plastic:
+
 0.06 lbs / 1.7637 lbs = (cost) / $29.99
+
 Cost = $1.02
 
 
 ## Iterations
-![Iterations](/img/design/utilitool/utilitooliterationsrendered.png "Iterations")
+![Iterations](/img/utilitooliterationsrendered.png "Iterations")
 
 
 ## Market Validation
@@ -119,19 +156,23 @@ Cost = $1.02
 
 ## Solution
 
-![UtiliTool Final Design](/img/design/utilitool/2.png "UtiliTool Final Design")
+![UtiliTool Final Design](/img/2.png "UtiliTool Final Design")
 
 
 UtiliTool’s final design has the following **features**:
 
 ### What It “Matches” (with Competitors’ Products):
 - The UtiliTool interacts with door handles and drawer pulls
+
 - Has keychain hole to attach keyring/ spring-loaded ring
+
 - Can carry bags
+
 - Can push buttons
 
 ### Where It’s Different:
 - The UtiliTool can also interact with round door knobs, which current tools can’t
+
 - Can hold credit cards (for credit card scanners)
 
 
