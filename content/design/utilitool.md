@@ -8,12 +8,133 @@ name: "utilitool"
 
 # Utilitool
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat blandit aliquam etiam erat velit. Enim ut sem viverra aliquet. Vitae suscipit tellus mauris a diam maecenas sed enim. Consequat nisl vel pretium lectus quam. Feugiat in fermentum posuere urna nec tincidunt praesent. At imperdiet dui accumsan sit amet. Nec ullamcorper sit amet risus. Neque viverra justo nec ultrices dui sapien eget mi proin. Non tellus orci ac auctor augue mauris augue neque. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Sapien faucibus et molestie ac feugiat sed. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
+In the midst of the COVID-19 pandemic, the need to limit viral contact and spread is more important than ever. One issue that poses a great risk to dispersing and contracting the virus is the public’s interaction with shared spaces, objects, and buttons, including but not limited to door handles, toilet handles, elevator buttons, and shopping carts.
 
-Ac orci phasellus egestas tellus. Donec adipiscing tristique risus nec feugiat in. Nulla at volutpat diam ut venenatis tellus in metus. Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Aliquet enim tortor at auctor urna. Nec ullamcorper sit amet risus. Sapien pellentesque habitant morbi tristique. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Libero enim sed faucibus turpis in eu mi bibendum. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et.
+This project aims to design and manufacture a universal tool, the UtiliTool, to interact with commonly-touched surfaces. The tool will go through multiple design iterations, be 3D modeled in SolidWorks, and, finally, 3D printed.
 
-Et odio pellentesque diam volutpat commodo sed egestas egestas. Est placerat in egestas erat imperdiet sed euismod nisi. At elementum eu facilisis sed odio. Venenatis a condimentum vitae sapien. Consectetur lorem donec massa sapien faucibus et molestie. Vitae tortor condimentum lacinia quis. Arcu non sodales neque sodales ut. Praesent elementum facilisis leo vel fringilla est ullamcorper eget nulla. Libero justo laoreet sit amet cursus. Adipiscing elit duis tristique sollicitudin nibh sit. Sed elementum tempus egestas sed.
 
-Lorem sed risus ultricies tristique nulla aliquet enim tortor at. Sit amet mattis vulputate enim nulla. Consectetur adipiscing elit duis tristique sollicitudin nibh. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Blandit libero volutpat sed cras ornare arcu dui vivamus. Auctor neque vitae tempus quam pellentesque nec. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Placerat orci nulla pellentesque dignissim enim sit. Odio aenean sed adipiscing diam donec. Quis commodo odio aenean sed adipiscing diam donec adipiscing. Viverra maecenas accumsan lacus vel facilisis volutpat est. Tristique senectus et netus et malesuada fames ac. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Nec ultrices dui sapien eget mi. Pulvinar mattis nunc sed blandit libero volutpat. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam.
+## Problem
 
-Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat orci nulla pellentesque dignissim enim sit. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Commodo nulla facilisi nullam vehicula. Aenean sed adipiscing diam donec adipiscing. Mauris nunc congue nisi vitae suscipit. Habitant morbi tristique senectus et netus et malesuada fames ac. Quis auctor elit sed vulputate mi sit amet mauris. Pretium quam vulputate dignissim suspendisse in est ante in. Cursus metus aliquam eleifend mi. Sapien eget mi proin sed libero enim sed faucibus turpis. Nibh praesent tristique magna sit. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Tortor consequat id porta nibh venenatis cras.
+1) Viral spread
+2) A strong but diffused light source is needed in a specific location, but lamps are not conveniently portable due to their size and weight.
+
+
+## Process
+
+1) Understand the competitive landscape: conduct secondary market research
+2) Do background research on people’s needs, what surfaces they commonly touch, what designs are ergonomic, target consumer population
+3) Focus on a specific demographic?
+4) Draft multiple designs (user-centered design)
+5) Receive other people’s opinions on the designs
+6) Decide on a single design keeping others’ feedback and competition in mind
+7) Model design in SolidWorks, keeping aesthetics and ergonomics in mind
+8) 3D print the prototype
+9) Make adjustments, possibly another design iteration
+10) 3D print the prototype
+11) Repeat steps 7-10 as many times as necessary
+12) Test out prototype in different situations
+13) Get estimated cost price, selling price, how it’ll be sold to consumers (Amazon, Target etc.)
+
+
+## Ideation
+
+In the end, I decided on Design 5, considering the opinions of my friends as well.
+
+Design 5 is highly flexible in its potential uses:
+- interacting with round doorknobs, bar-shaped door handles, shopping carts, elevator buttons, credit card scanners
+- aesthetically pleasing, appealing to both younger and older populations
+- can be attached to belt loops, carabiners, key holders, backpack straps, and more -- making it easily transportable and accessible
+
+
+## Research
+
+### Material
+
+The UtiliTool must be made of flexible material, as it will need to be stretched and compressed without breaking. To choose a material, we must look at each 3D printing material’s Young’s modulus, which is a mechanical property measuring the stiffness of a material. The lower the Young’s modulus, the more flexible the material.
+
+Thermoplastic polyamide, or TPA, is a flexible nylon material that has a Young’s modulus of 0.07 - 0.51 GPa at 20 °C. Its maximum allowed stress is 10 - 40 MPa at 20 °C (https://matmatch.com/materials/mbas144-polyamide-thermoplastic-elastomer-tpa-).
+
+### Dimensional Analysis
+
+To start off, we need to decide on the dimensions of the UtiliTool. The inner diameter of the “gripping” circle should be the diameter of an average-sized doorknob, which ranges are typically either 2 ⅜” or 2 ¾”. To be safe, I decided to go with 2 ¾”.
+
+Next, we must decide the width and thickness of the tool. Mechanical analysis of stress is necessary to determine the cross sectional area of the tool.
+
+Given the maximum allowed stress of 10 - 40 MPa, we can calculate the area of the UtiliTool’s cross section using the stress formula:
+
+σ=F/A
+
+10 MPa = (40 N)/A
+A = (40 N)/(10 N/mm^2)
+A = 4 mm^2 = 0.00620001 in^2
+
+Since this cross sectional area of 0.00620001 in2 is too small, we’ll have to increase the amount of force that the user exerts on the tool. Ideally, the cross sectional area will be 0.09375 in^2.
+
+10 MPa = F / 0.09375 in^2
+10 MPa = F / 60.48375 mm^2
+F = 604.8375 N
+
+Since this force is too large to expect a human to exert with only their arms and wrists, we can safely assume that the tool will not be plastically deformed (bent beyond elastic return).
+
+
+### Consumer Population
+
+Assuming that people who wear masks would be willing to pick up a tool such as the UtiliTool, we analyze the percentage of people who wear masks to determine our potential consumer population.
+
+Data from the New York Times show the following survey information:
+- 67 percent of women said they had worn a mask outside their home, compared with 56 percent of men, according to the Gallup poll (https://www.nytimes.com/2020/06/02/health/coronavirus-face-masks-surveys.html).
+
+Potential biases to note:
+- The New York Times is a left-leaning publication
+- Gallup polls are subject to volunteer bias
+- People who don’t have access to computers/phones might not have been polled, skewing the percentage of mask wearers one way or the other
+
+Looking at Statista data for US populations, we can find the total populations of women and men, separately (https://www.statista.com/statistics/737923/us-population-by-gender/).
+- Women: 169.22 million
+- Men: 162.59 million
+
+Applying the percentage of men and women who wear masks, we do the following calculations:
+Women: 0.67 * 169.22 * 10^6 = 113377400
+Men: 0.56 * 162.59 * 10^6 = 91050400
+Total: 113377400 + 91050400 = 204427800
+
+
+### Cost Analysis
+Flexible TPU filament spool:
+https://www.racedayquads.com/products/sainsmart-flexible-tpu-3d-printing-filament-1-75-mm-0-8-kg-dimensional-accuracy-0-05-mm?variant=18892284166257&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+
+The UtiliTool has a mass of 0.06 lbs.
+
+Approximation of Unit Cost printed with TPU Plastic:
+0.06 lbs / 1.7637 lbs = (cost) / $29.99
+Cost = $1.02
+
+
+## Iterations
+![Iterations](/img/design/utilitool/utilitooliterationsrendered.png "Iterations")
+
+
+## Market Validation
+
+
+## Solution
+
+![UtiliTool Final Design](/img/design/utilitool/2.png "UtiliTool Final Design")
+
+
+UtiliTool’s final design has the following **features**:
+
+### What It “Matches” (with Competitors’ Products):
+- The UtiliTool interacts with door handles and drawer pulls
+- Has keychain hole to attach keyring/ spring-loaded ring
+- Can carry bags
+- Can push buttons
+
+### Where It’s Different:
+- The UtiliTool can also interact with round door knobs, which current tools can’t
+- Can hold credit cards (for credit card scanners)
+
+
+
+Thanks for reading this far!
+Stay positive, and test negative!
