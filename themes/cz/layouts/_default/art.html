@@ -6,7 +6,7 @@
             {{ $folder := "/img/illustration/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" loading="lazy" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
             <div class="artlightbox">
                 <h1>{{ substr .Name 0 -4 }}</h1>
                 <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
@@ -19,7 +19,7 @@
             {{ $folder := "/img/painting/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" loading="lazy" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
             <div class="artlightbox">
                 <h1>{{ substr .Name 0 -4 }}</h1>
                 <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
@@ -32,7 +32,7 @@
             {{ $folder := "/img/photography/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
             {{ range $files }}
-            <img class="artimage fade" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
+            <img class="artimage fade" loading="lazy" src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>
             <div class="artlightbox">
                 <h1>{{ substr .Name 0 -4 }}</h1>
                 <img src="{{$folder}}{{.Name}}" alt="{{.Name}}"/>

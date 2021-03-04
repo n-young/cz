@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div id="design">
+    <div class="designsection">
+        {{ range where .Site.Pages.ByWeight.Reverse "Params.type" "engineering" }}
+        <a href={{.Permalink}}><img class="designimage" src="/img/engineering/{{.Params.name}}/main.png"></a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

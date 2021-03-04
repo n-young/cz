@@ -1,17 +1,17 @@
 {{ define "main" }}
 <div id="project">
     <div class="projectpanel">
-        {{ if (isset .Params "name") }}
-            {{ $folder := ( .Params.name | printf "/img/design/%s/" ) }}
-            {{ $files := readDir ( $folder | printf "/static%s" ) }}
-            {{ range $files }}
-            <img class="artimage fade" src="{{$folder}}/{{.Name}}" alt="{{.Name}}" />
+        <div class="projectphotos">
+            {{ if (isset .Params "name") }}
+                {{ $folder := ( .Params.name | printf "/img/design/%s/" ) }}
+                {{ $files := readDir ( $folder | printf "/static%s" ) }}
+                {{ range $files }}
+                <img class="artimage fade" loading="lazy" src="{{$folder}}/{{.Name}}" alt="{{.Name}}" />
+                {{ end }}
             {{ end }}
-        {{ end }}
-    </div>
-    <div class="projectpanel">
+        </div>
         {{- .Content -}}
-        <a href="/design"><button>Back</button></a>
+        <a href="javascript:history.back()"><button>Back</button></a>
     </div>
 </div>
 {{ end }}

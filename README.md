@@ -14,4 +14,3 @@ The theme is called CZ.
 
 - Engineering section
 - Get SSL Certificate
-- Lazy load images
