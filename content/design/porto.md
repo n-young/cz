@@ -28,6 +28,7 @@ The idea behind Porto is inspired by my father’s glass tea infuser, which is p
 ## Solution
 
 Porto’s final design has the following **features**:
+
 1) Battery cover for light power source
 
 2) Handle for portability

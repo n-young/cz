@@ -156,7 +156,7 @@ Cost = $1.02
 
 ## Solution
 
-![UtiliTool Final Design](/img/2.png "UtiliTool Final Design")
+![UtiliTool Final Design](/img/design/utilitool/main.png "UtiliTool Final Design")
 
 
 UtiliTool’s final design has the following **features**:

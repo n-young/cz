@@ -10,11 +10,24 @@ name: "koi"
 
 The koi fish lantern was my first project in which I incorporated engineering in an art class (Sculpture: Conceptual Propositions). This project was open-ended, with the only specification being to design and build a lantern using a combination of woodworking and metalworking techniques.
 
+
+
+
+
+
+
+
+
+
+
+
 ## Deliverables
 
 1) Design a height-adjustable lantern.
 
 2) Confirm that the beam elements would not buckle under weight.
+
+
 
 
 ## Process
@@ -37,7 +50,11 @@ The koi fish lantern was my first project in which I incorporated engineering in
 
 
 
+
+
 ## Illustrations
+
+
 
 
 ## Solution
