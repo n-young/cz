@@ -211,7 +211,6 @@ div#design > div.designsection {
 }
 
 div#design > div.designsection > a > img {
-    background-color: aliceblue;
     width: 300px;
     height: 225px;
     object-fit: cover;
@@ -234,13 +233,26 @@ div#project {
 }
 
 div#project > div.projectpanel {
-    width: 50%;
+    width: 100%;
     margin: 20px;
 }
 
-div#project > div.projectpanel > img {
-    background-color: aliceblue;
-    width: 100%
+div#project > div.projectpanel > p > img {
+    display: block;
+    max-width: 30vw;
+    max-height: 40vh;
+    margin: 20px auto;
+}
+
+div#project > div.projectpanel > div.projectphotos {
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+div#project > div.projectpanel > div.projectphotos > img.artimage {
+    width: 30vw;
+    margin: 20px 40px;
 }
 
 /* ================== */
@@ -269,7 +281,6 @@ div#art > div.artsection {
 }
 
 div#art > div.artsection > img {
-    background-color: aliceblue;
     width: 225px;
     height: 225px;
     object-fit: cover;

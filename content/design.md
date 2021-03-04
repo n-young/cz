@@ -2,5 +2,5 @@
 title: "Design"
 layout: "design"
 type: "nav"
-weight: 1
+weight: 3
 ---

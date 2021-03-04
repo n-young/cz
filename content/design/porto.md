@@ -2,7 +2,7 @@
 title: "Porto"
 layout: "project"
 weight: 1
-type: "project"
+type: "design"
 name: "porto"
 ---
 

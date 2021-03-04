@@ -2,7 +2,7 @@
 title: "Spotify Wrapped"
 layout: "project"
 weight: 1
-type: "project"
+type: "engineering"
 name: "spotify"
 ---
 

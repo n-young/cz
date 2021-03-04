@@ -2,7 +2,7 @@
 title: "Koi Fish Lantern"
 layout: "project"
 weight: 0
-type: "project"
+type: "engineering"
 name: "koi"
 ---
 
