@@ -13,7 +13,24 @@ The idea behind Porto is inspired by my father’s glass tea infuser, which is p
 
 ## Problem
 
-Lightbulbs’ glass surfaces are too hot to touch with bare hands.
-A strong but diffused light source is needed in a specific location, but lamps are not conveniently portable due to their size and weight.
+1) Lightbulbs’ glass surfaces are too hot to touch with bare hands.
+2) A strong but diffused light source is needed in a specific location, but lamps are not conveniently portable due to their size and weight.
 
 ## Ideation
+
+![Iterations](/iterations.png "Iterations")
+![Iterations](/img/design/porto/Porto iterations rendered.png)
+
+## Solution
+
+Porto’s final design has the following features:
+
+1) Battery cover for light power source
+2) Handle for portability
+3) Outer layer of glass to protect from bulb heat
+4) Inner layer of frosted glass containing light bulb
+5) Unscrewable bottom to replace bulb
+
+![Porto on Table 1](/img/design/porto/Porto rendered table.png)
+![Porto on Table 2](/img/design/porto/Porto rendered abstract.png)
+![Porto](/img/design/porto/main.png)
