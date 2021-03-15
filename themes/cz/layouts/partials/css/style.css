@@ -20,7 +20,7 @@
 
 html {
     scroll-behavior: smooth;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 body {
@@ -38,8 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 0.5rem;
     font-weight: 400;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -47,6 +46,10 @@ h6 {
 
 p {
     line-height: 1.75rem;
+}
+
+ul, ol, li > p {
+    margin: 0;
 }
 
 button {
@@ -232,25 +235,25 @@ div#project {
     width: 90%;
 }
 
-div#project > div.projectpanel {
+div.projectpanel {
     width: 100%;
     margin: 20px;
 }
 
-div#project > div.projectpanel > p > img {
+div.projectpanel > p > img {
     display: block;
     max-width: 30vw;
     max-height: 40vh;
     margin: 20px auto;
 }
 
-div#project > div.projectpanel > div.projectphotos {
+div.projectpanel > div.projectphotos {
     display: flex;
     flex-direction: column;
     float: left;
 }
 
-div#project > div.projectpanel > div.projectphotos > img.artimage {
+div.projectpanel > div.projectphotos > img.artimage {
     width: 30vw;
     margin: 20px 40px;
 }
