@@ -31,7 +31,65 @@ This project is under the USC Space Engineering Research Center (SERC). The purp
 
 ### What is quantized inertia?
 
+![Rindler Horizon](/img/rindler.jpg)
 
-![Example image](/img/logo.png)
 
-Tortor aliquam nulla facilisi cras fermentum odio eu. Placerat orci nulla pellentesque dignissim enim sit. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Commodo nulla facilisi nullam vehicula. Aenean sed adipiscing diam donec adipiscing. Mauris nunc congue nisi vitae suscipit. Habitant morbi tristique senectus et netus et malesuada fames ac. Quis auctor elit sed vulputate mi sit amet mauris. Pretium quam vulputate dignissim suspendisse in est ante in. Cursus metus aliquam eleifend mi. Sapien eget mi proin sed libero enim sed faucibus turpis. Nibh praesent tristique magna sit. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Tortor consequat id porta nibh venenatis cras.
+→ A very quickly accelerating object creates a Rindler Horizon behind it -- the boundary where information cannot catch up to the object
+→ As an object accelerates towards the cosmic horizon (a constant),
+→ → To the right of the object, most of the Unruh waves are allowed
+→ → To the left, fewer Unruh waves are allowed (Rindler horizon is much closer compared to cosmic horizon)
+→ Net impact of Unruh waves hitting the object is from the right side
+→ As a result, the object is pushed to the left, against its acceleration
+
+This is quantized inertia! Because of this phenomenon, we can produce propellantless propulsion.
+
+
+### What is the Horizon Drive?
+
+Dr. Mike McCulloch of Plymouth University proposed the quantized inertia (QI) theory as well as the Horizon Drive project idea. The Horizon Drive project uses a laser to reflect within a resonant cavity like a waveguide. QI predicts that this will produce thrust in vacuum conditions.
+
+
+## SolidWorks Modeling/3D Printing
+
+
+### Cavity Iteration 1:
+![Cavity Iteration 1](/img/engineering/horizon_drive/old cavity.jpg)
+
+
+### Cavity Iteration 2:
+![Cavity Iteration 2 Spikes](/img/engineering/horizon_drive/spikes sharp.jpg)
+![Cavity Iteration 2 Bowl](/img/engineering/horizon_drive/bowl.jpg)
+
+
+
+### Cavity Iteration 3 (Final Design):
+![Cavity Iteration 3](/img/engineering/horizon_drive/cavityfinal.png)
+
+
+## Silver Plating
+
+I contacted several plating companies in the LA area to receive and compare quotes for silver plating my cavity model.
+
+Ultimately, we decided to go with Barry’s Plating.
+
+![Silver Plating 1](/img/IMG_3671.jpg)
+![Silver Plating 2](/img/IMG_3672.jpg)
+
+## CNC toolpaths
+
+I generated the CNC toolpaths for the cavity spikes and bowl in both SolidWorks and Nx:
+
+![CNC Toolpaths](/img/cnc.png)
+
+
+We then tested out the CNC machine on a piece of wax, machining a half spheroid shape to observe the CNC’s ability to machine smooth curved surfaces.
+
+
+![Half Spheroid Test Object](/img/engineering/horizon_drive/half spheroid test object.jpg)
+![Wax CNC Test](/img/wax.png)
+
+## Solution
+
+![Bowl Rendered](/img/bowlrendered.png)
+![Spikes Rendered](/img/spikesrendered.png)
+![Assembled Rendered](/img/engineering/horizon_drive/main.png)
