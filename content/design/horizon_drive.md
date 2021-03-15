@@ -75,6 +75,7 @@ Ultimately, we decided to go with Barry’s Plating.
 ![Silver Plating 1](/img/IMG_3671.jpg)
 ![Silver Plating 2](/img/IMG_3672.jpg)
 
+
 ## CNC toolpaths
 
 I generated the CNC toolpaths for the cavity spikes and bowl in both SolidWorks and Nx:
