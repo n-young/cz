@@ -26,3 +26,4 @@ Next, I modeled the parts and mechanisms I'd sketched in SolidWorks, making each
 ![No Face Mask](/img/nofacemask.PNG)
 ![No Face Socket Arm](/img/nofacesocketarm.PNG)
 ![No Face Assembled](/img/nofaceassembled.PNG)
+![No Face Rendered](/img/no face mechanism rendered.png)
