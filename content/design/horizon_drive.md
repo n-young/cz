@@ -31,7 +31,7 @@ This project is under the USC Space Engineering Research Center (SERC). The purp
 
 ### What is quantized inertia?
 
-![Rindler Horizon](/img/rindler.jpg)
+![Rindler Horizon](/img/rindler.PNG)
 
 
 → A very quickly accelerating object creates a Rindler Horizon behind it -- the boundary where information cannot catch up to the object
