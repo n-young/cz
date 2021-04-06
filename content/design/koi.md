@@ -24,7 +24,7 @@ The koi fish lantern was my first project in which I incorporated engineering in
 
 ## Final Product
 
-![Hero Shot](/img/design/koi/main.png)
+![Hero Shot](/img/koititle.png)
 
 ![Koi 1](/img/z2.jpg)
 ![Koi 2](/img/z1.jpg)

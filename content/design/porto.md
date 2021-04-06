@@ -42,4 +42,6 @@ Porto’s final design has the following **features**:
 
 ![Porto on Table 1](/img/Portorenderedtable.png)
 ![Porto on Table 2](/img/Portorenderedabstract.png)
-![Porto](/img/main.png)
+![Porto](/img/mainporto.png)
+![Porto Hero](/img/Portorenderedhigh.png)
+![Porto Hero](/img/Industrial Design Portfolio 27.jpg)
