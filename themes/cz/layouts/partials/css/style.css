@@ -191,7 +191,7 @@ div.landingoptions > a:hover {
 }
 
 div.landingoptions > a > div.landingoption{
-    padding: 10px 20px; /* second number 20px */
+    padding: 10px 20px;
     background-color: white;
     color: black;
 }
