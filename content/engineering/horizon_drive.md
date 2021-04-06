@@ -100,8 +100,8 @@ I generated the CNC toolpaths for the cavity spikes and bowl in both SolidWorks 
 We then tested out the CNC machine on a piece of wax, machining a half spheroid shape to observe the CNC’s ability to machine smooth curved surfaces.
 
 
-![Half Spheroid Test Object](/img/engineering/horizon_drive/half spheroid test object.jpg)
-![Wax CNC Test](/img/wax.png)
+![Half Spheroid Test Object](/img/halfspheroid.png)
+![Wax CNC Test](/img/wax.jpg)
 
 ## Solution
 
