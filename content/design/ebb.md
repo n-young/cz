@@ -1,7 +1,7 @@
 ---
 title: "Ebb"
 layout: "project"
-weight: 1
+weight: 0
 type: "design"
 name: "ebb"
 ---
