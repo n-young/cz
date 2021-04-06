@@ -8,7 +8,7 @@ name: "ebb"
 
 # Ebb
 
-Ebb is a solo personal project. The mechanism behind Ebb is developed from a kinetic sculpture I made out of wood a few months prior. Ebb uses the same (but streamlined) cam mechanism to produce complex oscillating wave motions in its light projections.
+Ebb is a solo personal project. The mechanism behind Ebb is developed from a kinetic sculpture I made out of wood a few months prior (Flow). Ebb uses the same (but streamlined) cam mechanism to produce complex oscillating wave motions in its light projections.
 
 
 ![Ebb 1](/img/Industrial Design Portfolio 23.jpg)

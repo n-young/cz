@@ -22,7 +22,7 @@ The koi fish lantern was my first project in which I incorporated engineering in
 
 2) Confirm that the beam elements would not buckle under weight.
 
-
+## Final Product
 
 ![Hero Shot](/img/design/koi/main.png)
 
