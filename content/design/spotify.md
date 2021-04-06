@@ -1,7 +1,7 @@
 ---
 title: "Spotify Wrapped"
 layout: "project"
-weight: 2
+weight: 1
 type: "design"
 name: "spotify"
 ---

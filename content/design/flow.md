@@ -1,7 +1,7 @@
 ---
 title: "Flow"
 layout: "project"
-weight: 4
+weight: 1
 type: "design"
 name: "flow"
 ---
