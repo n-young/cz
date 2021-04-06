@@ -13,33 +13,48 @@ This project is under the USC Space Engineering Research Center (SERC). The purp
 ## Problem
 
 1) Consumable fuel (liquid, solid, nuclear) is necessary for satellite launch.
+
 2) Large amount of propellant results in heavier vehicles (higher mission costs).
 
 
 ## Process
 
 1) Research quantized inertia theory, Unruh waves, Rindler horizon, and the Casimir effect
+
 2) Research electroplating cavity with silver as well as weight reduction of underlying cavity material
+
 3) Recreate prior researcher’s design in SolidWorks
+
 4) Modify prior design to be CNC manufacturable: rounded edges, separated bowl and spikes, added flanges, changed spikes to be at 90 degree angle instead of concave upwards
+
 5) Generate STL file to be printed with MakerBot 3D printer for cost reduction (for cavity to be made of ABS plastic, coated in silver)
+
 6) Generate CNC toolpaths in NX and SolidWorks (for cavity to be made of aluminum, coated in silver)
+
 7) Operate CNC machine to manufacture test pieces
+
 8) Communicate with local plating services to silver-coat test pieces
+
 
 ## Research
 
 ### What is quantized inertia?
 
-![Rindler Horizon](/img/rindler.jpg)
+![Rindler Horizon](/img/rindler.png)
 
 
 → A very quickly accelerating object creates a Rindler Horizon behind it -- the boundary where information cannot catch up to the object
-→ As an object accelerates towards the cosmic horizon (a constant),
+
+→ As an object accelerates towards the cosmic horizon (a constant):
+
 → → To the right of the object, most of the Unruh waves are allowed
+
 → → To the left, fewer Unruh waves are allowed (Rindler horizon is much closer compared to cosmic horizon)
+
 → Net impact of Unruh waves hitting the object is from the right side
+
 → As a result, the object is pushed to the left, against its acceleration
+
 
 This is quantized inertia! Because of this phenomenon, we can produce propellantless propulsion.
 
@@ -53,17 +68,17 @@ Dr. Mike McCulloch of Plymouth University proposed the quantized inertia (QI) th
 
 
 ### Cavity Iteration 1:
-![Cavity Iteration 1](/img/engineering/horizon_drive/old cavity.jpg)
+![Cavity Iteration 1](/img/oldcavity.png)
 
 
 ### Cavity Iteration 2:
-![Cavity Iteration 2 Spikes](/img/engineering/horizon_drive/spikes sharp.jpg)
-![Cavity Iteration 2 Bowl](/img/engineering/horizon_drive/bowl.jpg)
+![Cavity Iteration 2 Spikes](/img/cavity2spikes.png)
+![Cavity Iteration 2 Bowl](/img/cavity2bowl.png)
 
 
 
 ### Cavity Iteration 3 (Final Design):
-![Cavity Iteration 3](/img/engineering/horizon_drive/cavityfinal.png)
+![Cavity Iteration 3](/img/cavityfinal.png)
 
 
 ## Silver Plating
