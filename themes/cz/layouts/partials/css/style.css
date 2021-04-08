@@ -330,7 +330,7 @@ div#about {
     display: flex;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 200px) {
     div#about {
         flex-direction: column;
     }
