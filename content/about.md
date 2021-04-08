@@ -5,8 +5,10 @@ type: "nav"
 weight: 4
 ---
 
-Hello! I'm Christine Zhou, a sophomore studying Mechanical Engineering and Visual Art at Brown University.
+Hello! I'm Christine Zhou, a rising junior studying Mechanical Engineering and Visual Art at Brown University.
 
-I'm constantly trying to combine engineering and art in the way I think and the way I work. I've built height-adjustable lamps in the workshop, designed a kinetic sculpture that uses cam theory to produce wave motions, and dreamt up solutions to coronavirus-induced issues.
+I practice human-centered design on my personal projects and am constantly thinking of how art, engineering, and humans go together. I love using my hands in the workshop -- operating machines ranging from 3D printers to bandsaws to plasma welders -- but also sitting down to make sketches and CAD models. My engineering background helps keep my projects grounded, providing me with a sense of what's durable, cost-effective, and manufacturable while my art background feeds me grand ideas.
 
-In my free time, I love wandering through museums, snapping Instagram pictures of my friends, and playing the app 1010! (which looks deceptively easy).
+In my free time, I love wandering through museums, watching awe-inspiring Studio Ghibli films, and playing the app 1010! (which looks deceptively easy).
+
+Reach out if you'd like to learn more!
