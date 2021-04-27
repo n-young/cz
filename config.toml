@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Christine Zhou | Portfolio"
 theme = "cz"
 publishDir = "docs"
+pluralizelisttitles = "false"
 
 [markup.goldmark.renderer]
 unsafe= true
