@@ -190,10 +190,14 @@ div.landingoptions > a:hover {
     transform: scale(1.05);
 }
 
-div.landingoptions > a > div.landingoption{
+div.landingoptions > a > div.landingoption {
     padding: 10px 20px;
     background-color: white;
     color: black;
+}
+
+div.landingoptions > a > div.landingoption > h2 {
+    margin: 0;
 }
 
 /* ================== */
