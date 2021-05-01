@@ -33,4 +33,3 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 ![Apple Design Test 12](/img/AppleDesignTest212.jpg)
 ![Apple Design Test 13](/img/AppleDesignTest213.jpg)
 ![Apple Design Test 14](/img/AppleDesignTest214.jpg)
-![Apple Design Test 15](/img/AppleDesignTest215.jpg)
