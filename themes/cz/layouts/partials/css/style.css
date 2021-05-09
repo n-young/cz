@@ -48,7 +48,9 @@ p {
     line-height: 1.75rem;
 }
 
-ul, ol, li > p {
+ul,
+ol,
+li > p {
     margin: 0;
 }
 
@@ -122,11 +124,66 @@ span.navsep {
     border-right: 2px var(--color-light-gray) solid;
 }
 
+div.navholder-mobile {
+    display: none;
+}
+
+span.hamburger {
+    display: none;
+}
+
 @media screen and (max-width: 768px) {
-    nav {
-        /* TODO: Hamburger menu */
-        display: none
+    div.navholder {
+        display: none;
     }
+
+    div.navholder-mobile {
+        display: block;
+        height: 0;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        background-color: white;
+        overflow-x: hidden;
+        transition: 0.5s;
+    }
+
+    a.closebtn {
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 25px;
+        font-size: 40px;
+        color: var(--color-black);
+        text-decoration: none        
+    }
+
+    div.navholder-content {
+        position: relative;
+        top: 10%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    div.navholder-content > a {
+        padding: 8px;
+        text-decoration: none;
+        font-size: 36px;
+        color: var(--color-black);
+        display: block;
+        text-transform: uppercase;
+    }
+
+    span.hamburger {
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 25px;
+        font-size: 40px;
+      }
 }
 
 /* ================== */
@@ -167,7 +224,7 @@ div.hero > h2.hero-subheader {
     font-weight: 400;
 }
 
-@media (max-width: 768px) {    
+@media (max-width: 768px) {
     div.hero > a > img.hero-img {
         width: 100px;
     }
@@ -175,7 +232,7 @@ div.hero > h2.hero-subheader {
     div.hero > h1.hero-header {
         margin: 0;
     }
-    
+
     div.hero > h2.hero-subheader {
         margin: 0;
     }
@@ -323,7 +380,12 @@ div#art > div.artsection {
 
 @media (max-width: 768px) {
     div#art > div.artsection {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    div#art > div.artsection > img {
+        max-width: 40vw;
+        max-height: 40vw;
     }
 }
 
@@ -387,6 +449,12 @@ div#about > img {
     max-height: 500px;
     width: auto;
     height: auto;
+}
+
+@media (max-width: 768px) {
+    div#about > img {
+        margin: auto;
+    }
 }
 
 div#about > div.aboutcontent {

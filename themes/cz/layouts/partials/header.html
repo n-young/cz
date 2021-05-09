@@ -1,4 +1,5 @@
 <nav>
+    <!-- DESKTOP NAV -->
     <div class="navholder">
         <span class="navlink">
             <a href="/">Home</a>
@@ -19,11 +20,26 @@
         <span class="navlink">
             <a href="/about">About</a>
         </span>
-    <!-- {{ range where .Site.Pages.ByWeight "Params.type" "nav" }}
+        <!-- {{ range where .Site.Pages.ByWeight "Params.type" "nav" }}
         <span class="navsep"></span>
         <span class="navlink">
             <a href={{.Permalink}}>{{ .Title }}</a>
         </span>
     {{ end }} -->
     </div>
+
+    <!-- MOBILE NAV -->
+    <div id="navholder-mobile" class="navholder-mobile">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">☰</a>
+        <div class="navholder-content">
+            <a href="/">Home</a>
+            <a href="/engineering">Engineering</a>
+            <a href="/art">Art</a>
+            <a href="/design">Design</a>
+            <a href="/about">About</a>
+        </div>
+    </div>
+
+    <!-- MOBILE NAV BUTTON -->
+    <span class="hamburger" onclick="openNav()">☰</span>
 </nav>
