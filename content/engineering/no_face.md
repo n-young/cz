@@ -27,3 +27,11 @@ Next, I modeled the parts and mechanisms I'd sketched in SolidWorks, making each
 ![No Face Socket Arm](/img/nofacesocketarm.PNG)
 ![No Face Assembled](/img/nofaceassembled.PNG)
 ![No Face Rendered](/img/no face mechanism rendered.png)
+
+## 3D Printing
+
+I 3D-printed the ball-and-socket joint as well as No Face's mask. I then painted his face on.
+
+![No Face 3D Print](/img/nofacecollage.jpg)
+
+More 3D-printing in progress!
