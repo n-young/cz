@@ -12,4 +12,8 @@
     <style type="text/css" media="screen">
         {{ partial "css/style.css" . | safeCSS }}
     </style>
+    <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script defer type="text/javascript">
+        {{ partial "js/script.js" | safeJS }}
+    </script>
 </head>
