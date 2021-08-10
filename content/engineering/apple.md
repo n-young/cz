@@ -19,7 +19,7 @@ different mechanisms for this door.
 
 Note carefully the mechanism requirement: a downward force on the button, normal to the door, should activate the button.
 
-<div class="sketchfab-embed-wrapper"> <iframe title="iPod Battery Door" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/23cf19aac5684e8ab7db5c3cc2f93f60/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/ipod-battery-door-23cf19aac5684e8ab7db5c3cc2f93f60?utm_medium=embed&utm_campaign=share-popup&utm_content=23cf19aac5684e8ab7db5c3cc2f93f60" target="_blank" style="font-weight: bold; color: #1CAAD9;"> </p></div>
+<div class="sketchfab-embed-wrapper"> <iframe title="iPod Battery Door" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/23cf19aac5684e8ab7db5c3cc2f93f60/embed"> </iframe> </div>
 
 ![Apple Design Test 1](/img/AppleDesignTest2.jpg)
 ![Apple Design Test 2](/img/AppleDesignTest22.jpg)
