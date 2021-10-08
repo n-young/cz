@@ -157,7 +157,7 @@ span.hamburger {
         right: 25px;
         font-size: 40px;
         color: var(--color-black);
-        text-decoration: none        
+        text-decoration: none
     }
 
     div.navholder-content {
@@ -275,8 +275,8 @@ div.landingoptions > a:hover {
 }
 
 div.landingoptions > a > div.landingoption {
-    padding: 10px 20px;
-    background-color: white;
+  /*  padding: 10px 20px;
+    background-color: white;*/
     color: black;
 }
 
