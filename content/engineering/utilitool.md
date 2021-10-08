@@ -1,8 +1,8 @@
 ---
 title: "Utilitool"
 layout: "project"
-weight: 1
-type: "design"
+weight: 2
+type: "engineering"
 name: "utilitool"
 ---
 
