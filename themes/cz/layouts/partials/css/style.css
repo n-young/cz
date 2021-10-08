@@ -275,11 +275,8 @@ div.landingoptions > a:hover {
 }
 
 div.landingoptions > a > div.landingoption {
-  /*  padding: 10px 20px;
-    background-color: white;*/
-    font-size: 20px,
-    position: absolute;
-    top: 200px;
+    padding: 10px 20px;
+    background-color: white;
     color: black;
 }
 
