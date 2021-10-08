@@ -10,9 +10,11 @@ name: "nerf"
 
 I worked as a Design Engineer Co-op at Hasbro in the NERF Team from July - December 2021. My days would involve concept ideation, calculations, CAD, iteration, rapid prototyping, and working in the shop. I’ve created many original working prototypes to be used in kid testing ranges.  
 
--------------------------------------------------------------------------------------------------------------------------------
-**In accordance with Hasbro's confidentiality policy, I am only able to disclose limited images with minimal detail of projects completed during this co-op.**
--------------------------------------------------------------------------------------------------------------------------------
+---
+
+_In accordance with Hasbro's confidentiality policy, I am only able to disclose limited images with minimal detail of projects completed during this co-op._
+
+---
 
 # One-Trigger Dart Launching Mechanism
 
@@ -63,8 +65,10 @@ My DOE test compared curve diameter with barrel length. I tested 4 diameters aga
 
 After the 16 barrel designs had been printed, tested, and recorded, I used MATLAB to code a color map, better visualizing the results of the DOE. With this analysis, we honed in on the barrel with the best performance.
 
--------------------------------------------------------------------------------------------------------------------------------
-Due to Hasbro's confidentiality policy, I have redacted the numerical data.
--------------------------------------------------------------------------------------------------------------------------------
+---
+
+_Due to Hasbro's confidentiality policy, I have redacted the numerical data._
+
+---
 
 ![DOE Results](/img/DOE_censored.png)
