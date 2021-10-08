@@ -13,6 +13,7 @@ I worked as a Design Engineer Co-op at Hasbro in the NERF Team from July - Decem
 -------------------------------------------------------------------------------------------------------------------------------
 **In accordance with Hasbro's confidentiality policy, I am only able to disclose limited images with minimal detail of projects completed during this co-op.**
 -------------------------------------------------------------------------------------------------------------------------------
+
 # One-Trigger Dart Launching Mechanism
 
 The Ultra product line is a series of motorized blasters that detect and only fire Ultra darts. These blasters typically have a secondary trigger, which the user pulls to start up the motors, which in turn spin the flywheels. Separately, the user then pulls the main trigger to fire the Ultra dart into the flywheels and out the blaster.
@@ -61,7 +62,9 @@ I decided to use Design of Experiments (DOE), since multiple factors may affect 
 My DOE test compared curve diameter with barrel length. I tested 4 diameters against 4 lengths, creating a 4x4 matrix of barrel designs (16 in total) to test.
 
 After the 16 barrel designs had been printed, tested, and recorded, I used MATLAB to code a color map, better visualizing the results of the DOE. With this analysis, we honed in on the barrel with the best performance.
+
 -------------------------------------------------------------------------------------------------------------------------------
 Due to Hasbro's confidentiality policy, I have redacted the numerical data.
 -------------------------------------------------------------------------------------------------------------------------------
+
 ![DOE Results](/img/DOE_censored.png)
