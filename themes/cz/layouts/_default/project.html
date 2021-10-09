@@ -3,7 +3,6 @@
     <div class="projectpanel">
         <div class="projectphotos">
             {{ if (isset .Params "name") }}
-
                 {{ if eq .Params.type "design" }}
                   {{ $folder := ( .Params.name | printf "/img/design/%s/" ) }}
                   {{ $files := readDir ( $folder | printf "/static%s" ) }}
@@ -21,7 +20,6 @@
             {{ end }}
         </div>
         {{- .Content -}}
-        <a href="javascript:history.back()"><button>Back</button></a>
     </div>
 </div>
 {{ end }}

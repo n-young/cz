@@ -1,19 +1,20 @@
 <div id="main">
+    {{- partial "hero.html" . -}}
     <div class="landingoptions">
-        <a href="/engineering" style="background-image: url('/img/ebb mechanism rendered color bg.png')">
-            <div class="landingoption">
-                <h2>Engineering</h2>
-            </div>
-        </a>
-        <a href="/art" style="background-image: url('/img/illustration/The Greenhouse.jpg')">
-            <div class="landingoption">
-                <h2>Art</h2>
-            </div>
-        </a>
-        <a href="/design" style="background-image: url('/img/design/ebb/main.png')">
+        <div class="landingoptiondiv">
+            <a class="landingoption" href="/engineering" style="background-image: url('/img/ebb mechanism rendered color bg.png')"></a>
+            <h2>Engineering</h2>
+            <p>lorem ipsem sit amet</p>
+        </div>
+        <div class="landingoptiondiv">
+            <a class="landingoption" href="/art" style="background-image: url('/img/illustration/The Greenhouse.jpg')"></a>
+            <h2>Art</h2>
+            <p>lorem ipsem sit amet</p>
+        </div>
+        <!-- <a href="/design" style="background-image: url('/img/design/ebb/main.png')">
             <div class="landingoption">
                 <h2>Design</h2>
             </div>
-        </a>
+        </a> -->
     </div>
 </div>
