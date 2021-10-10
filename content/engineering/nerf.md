@@ -1,5 +1,5 @@
 ---
-title: "Hasbro Co-Op at NERF"
+title: "Hasbro (NERF)"
 layout: "project"
 weight: 0
 type: "engineering"
