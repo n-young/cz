@@ -4,7 +4,7 @@ layout: "project"
 weight: 0
 type: "engineering"
 name: "apple"
-description: "Mechanism Design, CAD, Cost Analysis, FEA, Rendering"
+description: "Mechanism Design, CAD, Cost Analysis, FEA"
 
 ---
 
