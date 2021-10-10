@@ -4,6 +4,8 @@ layout: "project"
 weight: 1
 type: "engineering"
 name: "no_face"
+description: "CAD, 3D Printing"
+
 ---
 
 # No Face

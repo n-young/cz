@@ -4,6 +4,8 @@ layout: "project"
 weight: 1
 type: "engineering"
 name: "bat"
+description: "Troubleshooting, Building"
+
 ---
 
 # Bat Wing: Breuer Lab Research Solo Project
@@ -29,7 +31,7 @@ I began by taking notes on the cam mechanism, such as which wires produced what 
 
 ## Cam Mechanism in Action
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ha3_HSTw_L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ha3_HSTw_L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Designing the Wing
 

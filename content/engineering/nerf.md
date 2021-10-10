@@ -4,6 +4,8 @@ layout: "project"
 weight: 0
 type: "engineering"
 name: "nerf"
+description: "Mechanism Design, CAD, Rapid Prototyping, Injection Molding, Testing"
+
 ---
 
 # Design Engineering Co-Op

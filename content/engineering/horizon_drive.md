@@ -4,6 +4,8 @@ layout: "project"
 weight: 1
 type: "engineering"
 name: "horizon_drive"
+description: "CNC Manufacturing, Drawings, Plating"
+
 ---
 
 # Horizon Drive

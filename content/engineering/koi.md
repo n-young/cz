@@ -4,6 +4,8 @@ layout: "project"
 weight: 1
 type: "engineering"
 name: "koi"
+description: "Woodworking, Metalworking"
+
 ---
 
 # Koi Fish Lantern
