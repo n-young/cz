@@ -24,7 +24,7 @@ The Ultra product line is a series of motorized blasters that detect and only fi
 
 For this prototype, we wanted a mechanism that would eliminate the need for the secondary trigger while also launching the dart into the flywheels with an initial velocity.
 
-## Eliminating the Rev Trigger
+## Eliminating the Secondary Trigger
 I began by eliminating the secondary trigger and working backwards, assessing the existing mechanism and seeing what part(s) I could modify to serve the same function. I found a part that would travel in the same direction as the secondary trigger and modified it to activate the motors with a single trigger pull.
 
 ## Dart Launching Mechanism
