@@ -4,7 +4,7 @@ layout: "project"
 weight: 0
 type: "engineering"
 name: "nerf"
-description: "Mechanism Design, CAD, Injection Molding"
+description: "Mechanism Design, CAD, Injection Molding, DOE"
 
 ---
 
