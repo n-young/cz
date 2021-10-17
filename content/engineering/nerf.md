@@ -82,8 +82,8 @@ On the second day of my co-op, I was tasked with taking two blasters apart (NERF
 
 I figured explaining mechanisms in words would be too cumbersome to follow along, so I personally made graphics in Adobe Illustrator to present the mechanisms.
 
-<object data="https://docs.google.com/presentation/d/1omiTAsG0z4K_JS4d3027nkaCg8lAhK2yM_HXjzI8mPw/edit?usp=sharing" type="application/pdf" width="700px" height="700px">
-    <embed src="https://docs.google.com/presentation/d/1omiTAsG0z4K_JS4d3027nkaCg8lAhK2yM_HXjzI8mPw/edit?usp=sharing">
-        <p> Or, download the PDF here: <a href="https://docs.google.com/presentation/d/1omiTAsG0z4K_JS4d3027nkaCg8lAhK2yM_HXjzI8mPw/edit?usp=sharing">Download PDF</a>.</p>
+<object data="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing">
+        <p> Or, download the PDF here: <a href="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing">Download PDF</a>.</p>
     </embed>
 </object>
