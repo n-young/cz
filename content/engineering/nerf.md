@@ -38,11 +38,15 @@ I begin by separating the steps of an initial mechanism, numbering the sequence 
 ## **2:** Ideation
 Here, I start sketching high-level ideas of parts that interact with each other in the mechanism. I take notes on the pros and cons of each part interaction. Gradually, a couple of full mechanisms are developed.
 I start deciding how I want to modify existing parts and create new ones, sketching and adding dimensions in my notebook.
+![Mechanism Sketches](/img/nerfsketches.png)
+
 
 ## **3:** CAD
 Next, I pull up the CAD for the on-shelf Ultra Amp. I isolate the mechanism and any other relevant parts, using Pack-and-Go to create my own CAD playground. I use SolidWorks ConfigurationManager to manage the different versions of parts and assemblies I make.
 
 I use SW Interference Detection to check that the parts have enough tolerancing and clearances as they move in the mechanism. I also utilize SW Motion Analysis to check that the force required to operate the mechanism (pull the trigger) does not exceed the maximum value for children of this age range (8+).
+
+![SW Motion Analysis](/img/SWMotion.png)
 
 ## **4:** Rapid Prototyping
 Once the CAD designs are finalized, I send the STL files to be printed in our model shop. When the prints are ready, I assemble the mechanism, using a Dremel if there are interfering parts, not enough tolerance, or too much friction. At times, I need to desolder and resolder wires back together.
