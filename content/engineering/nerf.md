@@ -10,7 +10,7 @@ description: "Mechanism Design, CAD, Injection Molding, DOE"
 
 # Hasbro Design Engineering Co-Op (NERF)
 
-I worked as a Design Engineer Co-op at Hasbro in the NERF Team from July - December 2021. My days would involve concept ideation, calculations, CAD, iteration, rapid prototyping, and working in the shop. I’ve created many original working prototypes to be used in kid testing ranges.  
+I worked as a Design Engineer Co-op at Hasbro in the NERF Team from July - December 2021. My days would involve concept ideation, calculations, CAD, simulations, iteration, rapid prototyping, and working in the shop. I’ve created many original working prototypes to be used in kid testing ranges.  
 
 ---
 
