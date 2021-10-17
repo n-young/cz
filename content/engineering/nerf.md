@@ -77,8 +77,13 @@ _Due to Hasbro's confidentiality policy, I have redacted the numerical data._
 
 
 #Mechanism Presentation
+
+On the second day of my co-op, I was tasked with taking two blasters apart (NERF N-Strike Elite Rukkus ICS-8 and NERF Rival Finisher XX-700), observe the mechanisms, and make a presentation on them.
+
+I figured explaining mechanisms in words would be too cumbersome to follow along, so I personally made graphics in Adobe Illustrator to present the mechanisms. 
+
 <object data="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing">Download PDF</a>.</p>
+        <p> Or, download the PDF here: <a href="https://drive.google.com/file/d/1MkDFa8J0c3rgeJnZZCZypM-v2eJNwR82/view?usp=sharing">Download PDF</a>.</p>
     </embed>
 </object>
