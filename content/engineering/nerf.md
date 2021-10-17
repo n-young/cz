@@ -14,7 +14,7 @@ I worked as a Design Engineer Co-op at Hasbro in the NERF Team from July - Decem
 
 ---
 
-_In accordance with Hasbro's confidentiality policy, I am only able to disclose limited images with minimal detail of projects completed during this co-op._
+_In accordance with Hasbro's confidentiality policy, I am only able to disclose limited images with minimal detail of projects completed during this co-op. Numerical data will be redacted._
 
 ---
 
@@ -71,11 +71,7 @@ My DOE test compared curve diameter with barrel length. I tested 4 diameters aga
 
 After the 16 barrel designs had been printed, tested, and recorded, I used MATLAB to code a color map, better visualizing the results of the DOE. With this analysis, we honed in on the barrel with the best performance.
 
----
 
-_Due to Hasbro's confidentiality policy, I have redacted the numerical data._
-
----
 
 ![DOE Results](/img/DOE_censored.png)
 
