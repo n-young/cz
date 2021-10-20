@@ -379,7 +379,7 @@ div.projectpanel > div.projectphotos > img.artimage {
     margin: 20px 40px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     div.projectpanel {
         margin-top: 10vh;
     }
