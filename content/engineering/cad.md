@@ -14,7 +14,7 @@ description: "CAD, Drawings, FEA"
 
 I've always wondered how cars are 3D modeled -- the complex and curvilinear surfaces were a mystery to me. During Summer 2021, I decided to finally jump in and learn how to CAD a car.
 
-I began by finding blueprints of the top, side, front, and back views of the Lamborghini.
+I began by finding blueprints of the top, side, front, and back views of the Lamborghini Aventador.
 
 <!-- DO NOT TOUCH -->
 ​
