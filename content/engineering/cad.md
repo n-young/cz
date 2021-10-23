@@ -10,7 +10,7 @@ description: "CAD, Drawings, FEA"
 # Miscellaneous CAD
 
 
-## CADing a Car: Lamborghini Aventador
+## Modeling a Car: Lamborghini Aventador
 
 I've always wondered how cars are 3D modeled -- the complex and curvilinear surfaces were a mystery to me. During Summer 2021, I decided to finally jump in and learn how to CAD a car.
 
