@@ -520,3 +520,19 @@ div#about > div.aboutcontent > span.contactsep {
     border-right: 2px var(--color-light-gray) solid;
     margin: 0;
 }
+
+/* ================== */
+/* CURSOR */
+/* ================== */
+
+div.cursors div{
+  position: absolute;
+  top:300px;
+  left:300px;
+  width:30px;
+  height:30px;
+  background-color:#000000;
+  border-radius:50%;
+  z-index:10000;
+  pointer-events:none;
+}
