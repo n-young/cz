@@ -24,6 +24,17 @@ I began by finding blueprints of the top, side, front, and back views of the Lam
 ​
 <!-- DO NOT TOUCH -->
 
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
 
 ![Front](/img/front side.PNG)
 ![Top](/img/top side.PNG)
