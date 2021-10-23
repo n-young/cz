@@ -12,6 +12,19 @@ I've always wondered how cars are 3D modeled -- the complex and curvilinear surf
 
 I began by finding blueprints of the top, side, front, and back views of the Lamborghini.
 
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+​
+<!-- DO NOT TOUCH -->
+
+
 ![Front](/img/front side.PNG)
 ![Top](/img/top side.PNG)
 ![Right](/img/right side.PNG)
@@ -77,7 +90,7 @@ For the mousetrap assembly, I made drawings of several mousetrap part components
 
 I rendered a couple of the CAD projects in Adobe Dimension, for fun!
 
-![ENGN1740 Projects](/img/engineering/engn1740/main.png)
+![ENGN1740 Projects](/img/engn1740 main.png)
 
 <!-- DO NOT TOUCH -->
 ​
