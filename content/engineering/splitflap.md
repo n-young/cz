@@ -56,7 +56,6 @@ We worked to create a state driven machine, meaning the split flaps decision mak
 To get to a destination, or specific letter, the code counts how many letters away from the home position (letter “a”) the desired letter is. With this value (between 0-49), the split flap will need the same number of steps to rotate any given letter, so the value is then multiplied by the degrees per letter (360°/50 = 7.2°) and the steps per degree (2048/360° = 5.688).
 
 ![Wheel and Electronics](/img/IMG-2296.JPG)
-![Wheel and Electronics](/img/IMG-2349.JPG)
 
 ## Cutting Vinyl Characters
 
@@ -78,7 +77,7 @@ To test the motor, I strapped a baggie to the hub connected to the motor. I figu
 At 6 quarters (~34.02 g), the motor stopped. We'd isolated the "catching" problem to the motor.
 
 
-<iframe width="560" height="315" src="https://youtu.be/0PEnmuwGRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PEnmuwGRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final Product
 
