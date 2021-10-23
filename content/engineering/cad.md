@@ -67,10 +67,7 @@ By the end, I had exactly 100 boundary surfaces and over 200 sketches (each boun
 
 When I finished all the surfaces, I then used the PhotoView 360 SolidWorks add-in to render my car. Here are the final renders!
 
-![Lambo Final 1](/img/Lambo4.JPG)
-![Lambo Final 2](/img/Lambo5.JPG)
-![Lambo Final 3](/img/Lambo3.JPG)
-![Lambo Final 4](/img/Lambo6.JPG)
+![Lambo Final](/img/Lambo7.PNG)
 
 
 ## ENGN1740: Computer Aided Visualization and Design Projects
