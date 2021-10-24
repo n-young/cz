@@ -5,11 +5,18 @@
         <div id="gridSec">
             {{ range where .Site.Pages.ByWeight.Reverse "Params.type" "engineering" }}
             <div class="gridElt">
-                <a href={{.Permalink}}><img class="designimage" src="/img/engineering/{{.Params.name}}/main.png"></a>
+                <a href={{.Permalink}}><img class="designimage" src="/img/engineering/{{.Params.name}}/main.png" data-hover={{.Params.name}}></a>
             </div>
             {{ end }}
         </div>
     </div>
 </div>
+
+<div class = "cursors">
+  <div>
+    <span></span>
+    </div>
+
+    <script src="cursors.js"></script>
 
 {{ end }}
