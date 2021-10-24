@@ -524,7 +524,7 @@ div#about > div.aboutcontent > span.contactsep {
 /* ================== */
 /* CURSOR */
 /* ================== */
-div.cursors div{
+/* div.cursors div{
   position: absolute;
   top:300px;
   left:300px;
@@ -549,4 +549,4 @@ div.cursors div span {
   line-height:32px;
   color:#000000;
 
-}
+} */
