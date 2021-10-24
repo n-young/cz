@@ -79,6 +79,20 @@ At 6 quarters (~34.02 g), the motor stopped. We'd isolated the "catching" proble
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0PEnmuwGRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I also designed and modeled an idea for a "stopper," which would hold the flaps back at the top to prevent them from falling forward too easily. I performed FEA on the stopper to make sure the part wouldn't plastically deform from the constant force applied to it.
+
+
+![Stopper](/img/split flap stopper.PNG)
+
+![Stopper Von Mises](/img/stopper von mises.PNG)
+![Stopper Displacement](/img/stopper displacement.PNG)
+![Stopper Strain](/img/stopper strain.PNG)
+
+At a strain of about 1.8%, plastic deformation in ABS starts to occur. The strain in the FEA is maximum 4.422e-03%, so this part won’t plastically deform.
+
+![ABS Stress-Strain Curve](/img/abs stress-strain curve.PNG)
+
+
 ## Final Product
 
 After each team finished their individual modules, we assembled them together for a total of 8 split flaps. With a bit more tweaking, this final split flap assembly will go into the THINK bot!
