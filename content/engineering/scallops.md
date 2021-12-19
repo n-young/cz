@@ -44,8 +44,6 @@ We used two of the four-scallop modules for a total of eight scallops. To connec
 
 To make the gears, we used a gear maker add-in called SpurGear in Fusion 360.  The gears had a diameter of 304.55mm and 24 teeth.
 
-![Gears](/img/scallop_gear.png)
-
 ## Box Making
 
 ![Box Making](/img/scallop_boxmaking.png)
