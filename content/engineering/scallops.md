@@ -10,7 +10,7 @@ description: "Design, CAD, Woodworking, Circuitry"
 
 # Scallop Music Box
 
-This project aims to bring awareness to the plight of a not-often discussed ocean creature, and pay homage to the history of its existence here. Merging old-world aesthetics with modern technologies, this project gives viewers a glimpse into the past, while painting a picture of a future where scallops are once again swimming together. But, it is not an entirely optimistic view. Scallops are one of very few shellfish with the ability to swim, but, observed in their natural habitats, they do so sparingly and leisurely. It is only when they are being fished that they swim quickly. The viewer, through their interaction, gets to decide the context of the piece: are the scallops swimming in their lush beds of eelgrass, or are they running frantically, fighting for their survival? Turn the knob and the stakes rise.
+The swarm scallops project aims to raise awareness of human interference on natural habitats and environments, negatively impacting sea life such as scallops. Merging old-world aesthetics with modern technologies, this project gives viewers a glimpse into the past, while painting a picture of a future where scallops are once again swimming together. But, it is not an entirely optimistic view. Scallops are one of very few shellfish with the ability to swim, but, observed in their natural habitats, they do so sparingly and leisurely. It is only when they are being fished that they swim quickly. The viewer, through their interaction, gets to decide the context of the piece: are the scallops swimming in their lush beds of eelgrass, or are they running frantically, fighting for their survival? Turn the knob and the stakes rise.
 
 
 ## Brainstorm
@@ -23,8 +23,7 @@ We realized that -- considering our space and budget constraints --  we could ha
 
 Then, we started to brainstorm more lower-level mechanism designs. For our design decision-making, we chose the design that would minimize the number of parts and the complexity of the mechanism. We decided to move forward with Mechanism 1 (see image below) due to its simplicity and minimization of parts (reduced cost and friction).
 
-![Brainstorm 2](/img/scallop_brainstorm2.png)
-![Brainstorm 3](/img/scallop_brainstorm3.png)
+![Brainstorm 2](/img/scallop_brainstorm4.png)
 
 ## Mechanism Iterations
 
