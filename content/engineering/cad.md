@@ -23,10 +23,6 @@ I've always wondered how cars are 3D modeled -- the complex and curvilinear surf
 
 I began by finding blueprints of the top, side, front, and back views of the Lamborghini Aventador.
 
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-​
 <!---
 ![Front](/img/front side.PNG)
 ![Top](/img/top side.PNG)
@@ -72,6 +68,10 @@ For the renders, I assigned materials to the walls of my CAD model. Adobe Dimens
 ![Barcelona Pavilion 3](/img/barcelonapavilion_3.PNG)
 
 I also needed to set the lighting in my scenes; I experienced the difficulty of interior lighting. I learned how to strategically place lights to illuminate the greatest area with walls as constraints. A similar computational geometry problem, the art gallery problem, is a problem of guarding an art gallery with the minimum number of guards who together can observe the entire gallery, which has walls and concave side rooms. The trick is to place the guards at the vertices of the side rooms so that they can see into the side rooms as well as portions of the main room. Following this principle, I placed my lights at the vertices of the Pavilion’s side rooms when I needed to illuminate the building interior.
+
+Here's a comparison of the real-life photo vs. my rendered CAD model!
+
+![Barcelona Pavilion Comparison Photo](/img/barcelonapavilion_comparison.PNG)
 
 
 ## ENGN1740: Computer Aided Visualization and Design Projects
