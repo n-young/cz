@@ -35,6 +35,8 @@ For the general cam mechanism, we wanted to see if the general idea of the mecha
 
 For the single scallop mechanism, we removed unnecessary material from the general cam mechanism after running a topological analysis in SolidWorks. We introduced the scallop model. We also tested multiple cam profiles to determine which ellipse major axis performed the best (the tradeoff between having a higher wave peak height vs. minimizing the torque required to turn the mechanism). The best ellipse major axis was 90mm.
 
+![Topological Study](/img/scallop_topo.png)
+
 The four-scallop module was the single scallop mechanism but multiplied. Some minor design changes were made to improve from the single scallop mechanism (scaling the scallops down by 40%).
 
 ![8 Scallop Module](/img/scallop_8.png)
