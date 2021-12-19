@@ -9,6 +9,13 @@ description: "CAD, Drawings, FEA"
 
 # Miscellaneous CAD
 
+## Overview
+
+Here are some pretty pictures. Details of my 3D modeling processes are below.
+
+![Lambo Final](/img/Lambo7.PNG)
+![Barcelona Pavilion Final](/img/barcelonapavilion4.PNG)
+![ENGN1740 Final](/img/engn1740 projects rendered.PNG)
 
 ## Modeling a Car: Lamborghini Aventador
 
@@ -20,30 +27,12 @@ I began by finding blueprints of the top, side, front, and back views of the Lam
 ​
 <!-- DO NOT TOUCH -->
 ​
-<!-- DO NOT TOUCH -->
-
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-
+<!---
 ![Front](/img/front side.PNG)
 ![Top](/img/top side.PNG)
 ![Right](/img/right side.PNG)
 ![Back](/img/back side.PNG)
+-->
 
 I then laid them out on planes.
 
@@ -68,6 +57,21 @@ By the end, I had exactly 100 boundary surfaces and over 200 sketches (each boun
 When I finished all the surfaces, I then used the PhotoView 360 SolidWorks add-in to render my car. Here are the final renders!
 
 ![Lambo Final](/img/Lambo7.PNG)
+
+## Modeling a Building: Barcelona Pavilion
+
+For my HIAA0850 final project, I constructed a digital 3D model of the Barcelona Pavilion (arch. Ludwig Mies van der Rohe). My process involved creating the 3D CAD model of the Barcelona Pavilion in SolidWorks, assigning materials and setting up lighting, scenes, and camera positions in Adobe Dimension, producing photo-realistic renders in Adobe Dimension, editing rendered photos in Adobe Lightroom, and putting together flythrough clips and edited renders in Adobe Premiere Pro, producing a final video.
+
+In creating the CAD model, I overlaid the floor plan and front, side, and back views of the Pavilion onto the Front, Top, and Right planes in SolidWorks. I began tracing 2D projections over the blueprint. Then, I extruded these 2D sketches, resulting in 3D walls. I added in details afterwards, such as the sunken area for the pools of water, the panels of glass, and the structural supports.
+
+![Barcelona Pavilion 1](/img/barcelonapavilion_1.PNG)
+![Barcelona Pavilion 2](/img/barcelonapavilion_2.PNG)
+
+For the renders, I assigned materials to the walls of my CAD model. Adobe Dimension’s material selection is limited, so occasionally I needed to substitute in visually similar materials, such as using cedar wood for the marble floors and ceilings. I also needed to adjust the materials’ roughness, pattern repetitiveness, reflectivity, and color.
+
+![Barcelona Pavilion 3](/img/barcelonapavilion_3.PNG)
+
+I also needed to set the lighting in my scenes; I experienced the difficulty of interior lighting. I learned how to strategically place lights to illuminate the greatest area with walls as constraints. A similar computational geometry problem, the art gallery problem, is a problem of guarding an art gallery with the minimum number of guards who together can observe the entire gallery, which has walls and concave side rooms. The trick is to place the guards at the vertices of the side rooms so that they can see into the side rooms as well as portions of the main room. Following this principle, I placed my lights at the vertices of the Pavilion’s side rooms when I needed to illuminate the building interior.
 
 
 ## ENGN1740: Computer Aided Visualization and Design Projects
@@ -110,7 +114,7 @@ For the mousetrap assembly, I made drawings of several mousetrap part components
 
 I rendered a couple of the CAD projects in Adobe Dimension, for fun!
 
-![ENGN1740 Projects](/img/engn1740 main.png)
+![ENGN1740 Projects](/img/engn1740 projects rendered.png)
 
 <!-- DO NOT TOUCH -->
 ​
