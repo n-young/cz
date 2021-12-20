@@ -14,7 +14,7 @@ description: "CAD, Drawings, FEA"
 Here are some pretty pictures. Details of my 3D modeling processes are below.
 
 ![Lambo Final](/img/Lambo7.PNG)
-![Barcelona Pavilion Final](/img/barcelonapavilion4.PNG)
+![Barcelona Pavilion Final](/img/barcelonapavilion4_2.PNG)
 ![ENGN1740 Final](/img/engn1740 projects rendered.PNG)
 
 ## Modeling a Car: Lamborghini Aventador
