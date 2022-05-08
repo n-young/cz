@@ -118,7 +118,7 @@ The new 12V stepper motor’s holding torque is 0.45 Nm, which is twice the maxi
 
 ## Final Video
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/nQllOr5IfUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/18Php0Zs_n6v9DJ7Ncvf1rabGv9kUj9fc/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Final Photos
 
