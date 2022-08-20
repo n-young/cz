@@ -1,7 +1,7 @@
 ---
 title: "Apple Design Test"
 layout: "project"
-weight: 2
+weight: 1
 type: "engineering"
 name: "apple"
 description: "Mechanism Design, CAD, Cost Analysis, FEA"

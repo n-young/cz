@@ -1,7 +1,7 @@
 ---
 title: "Ebb"
 layout: "project"
-weight: 1
+weight: 2
 type: "engineering"
 name: "ebb"
 description: "Mechanism Design, CAD, Rendering"
