@@ -1,7 +1,7 @@
 ---
 title: "Split Flaps"
 layout: "project"
-weight: 1
+weight: 2
 type: "engineering"
 name: "splitflap"
 description: "CAD, Rapid Prototyping, Building"
