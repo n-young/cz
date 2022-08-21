@@ -44,9 +44,9 @@ h6 {
     font-family: var(--font-header);
     font-weight: 600;
     margin-bottom: 0.5rem;
-    text-transform: uppercase;
     letter-spacing: 1px;
 }
+
 
 p {
     line-height: 1.75rem;
@@ -212,7 +212,7 @@ div#mainSec > h1 {
 }
 
 div#mainSec > h5 {
-    margin: 10px 0 40px 0;
+    margin: 10px 0 45px 0;
     text-align: center;
 }
 
