@@ -2,6 +2,7 @@
 <div id="main">
     <div id="mainSec">
         <h1 class="fade">Illustration</h1>
+        <h5 class="fade">Drawn in Adobe Photoshop, Summer 2020.</h5>
         <div class="artsection" id="illustration">
             {{ $folder := "/img/illustration/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
@@ -15,6 +16,7 @@
         </div>
 
         <h1 class="fade">Painting</h1>
+        <h5 class="fade">Acrylics and watercolors.</h5>
         <div class="artsection" id="painting">
             {{ $folder := "/img/painting/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
@@ -28,6 +30,7 @@
         </div>
 
         <h1 class="fade">Photography</h1>
+        <h5 class="fade">Shot on my Nikon D3500, Spring 2021.</h5>
         <div class="artsection" id="photography">
             {{ $folder := "/img/photography/"}}
             {{ $files := readDir ( $folder | printf "/static/%s" ) }}
