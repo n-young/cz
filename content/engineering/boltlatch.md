@@ -43,5 +43,5 @@ The next day, I designed a housing to mount the bolt latch onto a door. The hous
 
 Here are some videos of the working latch:
 
-<iframe src="https://drive.google.com/file/d/1Ixfey5dKwSFrldG7Gj27OglBosAHPKZs/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1TDNxOQlDNbA8STspJaSSSX5Sr9tLD1xY/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Ixfey5dKwSFrldG7Gj27OglBosAHPKZs/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1TDNxOQlDNbA8STspJaSSSX5Sr9tLD1xY/preview" width="640" height="480" allow="autoplay"></iframe>
