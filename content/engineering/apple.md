@@ -10,7 +10,7 @@ description: "Mechanism Design, CAD, Cost Analysis, FEA"
 
 # Apple Design Test
 
-The Apple Design Test is a test administered to Apple applicants year after year. Here's my take on it!
+The Apple Design Test is a test administered to Apple applicants year after year. I have done this test twice (September 2022 and April 2021).
 
 ## Problem Statement
 
@@ -20,6 +20,26 @@ The door should unlock when a user presses a button, which causes the door to po
 different mechanisms for this door.
 
 Note carefully the mechanism requirement: a downward force on the button, normal to the door, should activate the button.
+
+## September 2022 Submission
+
+![Apple Design Test 1](/img/PDChallenge/0001.jpg)
+![Apple Design Test 2](/img/PDChallenge/0002.jpg)
+![Apple Design Test 3](/img/PDChallenge/0003.jpg)
+![Apple Design Test 4](/img/PDChallenge/0004.jpg)
+![Apple Design Test 5](/img/PDChallenge/0005.jpg)
+![Apple Design Test 6](/img/PDChallenge/0006.jpg)
+![Apple Design Test 7](/img/PDChallenge/0007.jpg)
+![Apple Design Test 8](/img/PDChallenge/0008.jpg)
+![Apple Design Test 9](/img/PDChallenge/0009.jpg)
+![Apple Design Test 10](/img/PDChallenge/0010.jpg)
+![Apple Design Test 11](/img/PDChallenge/0011.jpg)
+![Apple Design Test 12](/img/PDChallenge/0012.jpg)
+![Apple Design Test 13](/img/PDChallenge/0013.jpg)
+![Apple Design Test 14](/img/PDChallenge/0014.jpg)
+![Apple Design Test 15](/img/PDChallenge/0015.jpg)
+
+## April 2021 Submission
 
 <div class="sketchfab-embed-wrapper"> <iframe title="iPod Battery Door" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/23cf19aac5684e8ab7db5c3cc2f93f60/embed"> </iframe> </div>
 
