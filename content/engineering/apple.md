@@ -24,14 +24,7 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 <!-- DO NOT TOUCH -->
 ​
 <!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
 
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
-​
-<!-- DO NOT TOUCH -->
 
 ## September 2022 Submission
 
