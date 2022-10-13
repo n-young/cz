@@ -15,7 +15,7 @@ Here are some pretty pictures. Details of my 3D modeling processes are below.
 
 ![Lambo Final](/img/Lambo7.PNG)
 ![Barcelona Pavilion Final](/img/barcelonapavilion4_2.PNG)
-![ENGN1740 Final](/img/engn1740 projects rendered.PNG)
+![ENGN1740 Final](/img/engn1740projectsrendered.PNG)
 
 ## Modeling a Car: Lamborghini Aventador
 
@@ -32,23 +32,23 @@ I began by finding blueprints of the top, side, front, and back views of the Lam
 
 I then laid them out on planes.
 
-![Blueprint Planes](/img/blueprint planes.PNG)
+![Blueprint Planes](/img/blueprintplanes.PNG)
 
 After that, I started making boundary surfaces to model the shapes of each face, constantly switching between the front, back, side, and top views to match the edges of my surfaces to the blueprints.
 
-![Boundary Surface](/img/boundary surface.PNG)
-![Process](/img/lambo process.PNG)
+![Boundary Surface](/img/boundarysurface.PNG)
+![Process](/img/lamboprocess.PNG)
 
 Using SolidWorks Evaluate tools such as Zebra Stripes and Curvature helps to confirm that the boundary surfaces have the correct curvature and edges.
 
 ![Zebra Stripes](/img/lambozebra.PNG)
-![Curvature](/img/lambo curve.PNG)
+![Curvature](/img/lambocurve.PNG)
 
 By the end, I had exactly 100 boundary surfaces and over 200 sketches (each boundary surface is made up of 2-3 sketches).
 
-![100 Surfaces](/img/100 surfaces.PNG)
-![Front SW View](/img/front SW lambo.PNG)
-![Back SW View](/img/back SW lambo.PNG)
+![100 Surfaces](/img/100surfaces.PNG)
+![Front SW View](/img/frontSWlambo.PNG)
+![Back SW View](/img/backSWlambo.PNG)
 
 When I finished all the surfaces, I then used the PhotoView 360 SolidWorks add-in to render my car. Here are the final renders!
 
@@ -107,14 +107,14 @@ I performed modal analysis of the plastic cheese mousetrap component in Fusion 3
 
 For the mousetrap assembly, I made drawings of several mousetrap part components following ASME Y14.5 2009 standards.
 
-![Mousetrap Drawing 1](/img/zhou_mousetrap cheese.png)
-![Mousetrap Drawing 2](/img/zhou_mousetrap wire square 3.png)
+![Mousetrap Drawing 1](/img/zhou_mousetrapcheese.png)
+![Mousetrap Drawing 2](/img/zhou_mousetrapwiresquare3.png)
 
 ### Final Render
 
 I rendered a couple of the CAD projects in Adobe Dimension, for fun!
 
-![ENGN1740 Projects](/img/engn1740 projects rendered.png)
+![ENGN1740 Projects](/img/engn1740projectsrendered.png)
 
 <!-- DO NOT TOUCH -->
 ​
