@@ -41,7 +41,7 @@ After that, I started making boundary surfaces to model the shapes of each face,
 
 Using SolidWorks Evaluate tools such as Zebra Stripes and Curvature helps to confirm that the boundary surfaces have the correct curvature and edges.
 
-![Zebra Stripes](/img/lambo zebra.PNG)
+![Zebra Stripes](/img/lambozebra.PNG)
 ![Curvature](/img/lambo curve.PNG)
 
 By the end, I had exactly 100 boundary surfaces and over 200 sketches (each boundary surface is made up of 2-3 sketches).
