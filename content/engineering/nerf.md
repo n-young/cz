@@ -59,7 +59,7 @@ The final mechanism is inserted into either an existing Ultra Amp exterior shell
 If all goes well, my mechanisms might end up on the shelves!
 ![One-Trigger Mechanism Main](/img/nerf_planB_main.jpg)
 ![One-Trigger Mechanism Collage](/img/nerf_planB_collage.PNG)
-![One-Trigger Mechanism Rendered](/img/Revless Plan B Blue BG.png)
+![One-Trigger Mechanism Rendered](/img/RevlessPlanB_BlueBG.png)
 
 # Rival Barrel DOE
 

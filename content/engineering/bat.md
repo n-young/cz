@@ -16,7 +16,7 @@ I'm currently a research assistant in the Breuer Lab at Brown University. The la
 
 I began by taking notes on the cam mechanism, such as which wires produced what motions. I also noted dimensions, parts, what I had done on each day.
 
-![Notes](/img/Bat notes small.jpg)
+![Notes](/img/Batnotessmall.jpg)
 
 ## Repairing the Cam Mechanism
 

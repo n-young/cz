@@ -29,8 +29,8 @@ My main goal for this project was to design a product for mass production and ma
 
 I wanted to minimize friction as well as have tactile indents at the minimum and maximum bolt travel. I added bearings and a hex-drive ball detent. For 3D printing, I used clearances of 0.007" on contacting surfaces.
 
-![Bolt CATIA 1](/img/bolt catia 1.JPG)
-![Bolt CATIA 2](/img/bolt catia 2.JPG)
+![Bolt CATIA 1](/img/boltcatia1.JPG)
+![Bolt CATIA 2](/img/boltcatia2.JPG)
 
 ### Prototyping
 
@@ -38,8 +38,8 @@ I 3D printed the designs and ordered the parts on McMaster-Carr. Within a day of
 
 The next day, I designed a housing to mount the bolt latch onto a door. The housing uses the minimum number of features necessary to fully constrain the part, thus minimizing filament material and print time.
 
-![Bolt Prototype](/img/bolt proto 1.JPG)
-![Bolt Assembly Exploded](/img/bolt proto exploded.JPG)
+![Bolt Prototype](/img/boltproto1.JPG)
+![Bolt Assembly Exploded](/img/boltprotoexploded.JPG)
 
 Here are some videos of the working latch:
 

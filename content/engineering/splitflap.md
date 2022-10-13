@@ -44,7 +44,7 @@ For this project, we used the following materials:
 
 Some parts we received were premade from Eva's team, such as the hub, acrylic wheels, acrylic side panel, split flaps. We began by assembling these parts but quickly found it tedious and time-consuming to install the split flaps onto the hub. I designed a solution to improve and speed up the process. I modeled in SolidWorks and 3D printed an "assembler," which would allow us to easily slide in the flaps and hold them in place, allowing us to screw down the acrylic wheels when ready.
 
-![Assembler](/img/flap assembler.PNG)
+![Assembler](/img/flapassembler.PNG)
 ![Assembler and Motor](/img/IMG-2354.JPG)
 
 ## Software and Hall Effect Sensor
@@ -82,15 +82,15 @@ At 6 quarters (~34.02 g), the motor stopped. We'd isolated the "catching" proble
 I also designed and modeled an idea for a "stopper," which would hold the flaps back at the top to prevent them from falling forward too easily. I performed FEA on the stopper to make sure the part wouldn't plastically deform from the constant force applied to it.
 
 
-![Stopper](/img/split flap stopper.PNG)
+![Stopper](/img/splitflapstopper.PNG)
 
-![Stopper Von Mises](/img/stopper von mises.PNG)
-![Stopper Displacement](/img/stopper displacement.PNG)
-![Stopper Strain](/img/stopper strain.PNG)
+![Stopper Von Mises](/img/stoppervonmises.PNG)
+![Stopper Displacement](/img/stopperdisplacement.PNG)
+![Stopper Strain](/img/stopperstrain.PNG)
 
 At a strain of about 1.8%, plastic deformation in ABS starts to occur. The strain in the FEA is maximum 4.422e-03%, so this part won’t plastically deform.
 
-![ABS Stress-Strain Curve](/img/abs stress-strain curve.PNG)
+![ABS Stress-Strain Curve](/img/abs_stress-strain curve.PNG)
 
 
 ## Final Product

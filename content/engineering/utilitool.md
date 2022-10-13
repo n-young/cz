@@ -14,15 +14,15 @@ In the midst of the COVID-19 pandemic, the need to limit viral contact and sprea
 
 This project aims to design and manufacture a universal tool, the UtiliTool, to interact with commonly-touched surfaces. The tool will go through multiple design iterations, be 3D modeled in SolidWorks, and, finally, 3D printed.
 
-![UtiliTool Cover](/img/Industrial Design Portfolio 210.jpg)
+![UtiliTool Cover](/img/IndustrialDesignPortfolio210.jpg)
 
 ## Consumer Research
 
-![UtiliTool Cover](/img/Industrial Design Portfolio 211.jpg)
+![UtiliTool Cover](/img/IndustrialDesignPortfolio211.jpg)
 
 ## Ideation and Iteration
 
-![UtiliTool Cover](/img/Industrial Design Portfolio 212.jpg)
+![UtiliTool Cover](/img/IndustrialDesignPortfolio212.jpg)
 
 ## Material Selection
 
@@ -53,5 +53,5 @@ Since this force is too large to expect a human to exert with only their arms an
 
 ## Final Product Prototype
 
-![UtiliTool Cover](/img/Industrial Design Portfolio 213.jpg)
-![UtiliTool Cover](/img/Industrial Design Portfolio 214.jpg)
+![UtiliTool Cover](/img/IndustrialDesignPortfolio213.jpg)
+![UtiliTool Cover](/img/IndustrialDesignPortfolio214.jpg)
