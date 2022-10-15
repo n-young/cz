@@ -109,7 +109,7 @@ nav {
 
 div.navholder {
     width: 90%;
-    max-width: var(--md-width);
+    max-width: var(--lg-width);
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -155,7 +155,8 @@ span.hamburger {
         z-index: 2;
         left: 0;
         top: 0;
-        background-color: white;
+        /* background-color: white; */
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
         overflow-x: hidden;
         transition: 0.5s;
     }
@@ -208,8 +209,8 @@ main#content {
 }
 
 div#main {
-    width: 90%;
-    max-width: var(--md-width);
+    width: 95%;
+    max-width: var(--lg-width);
 }
 
 div#mainSec > h1 {
@@ -369,7 +370,7 @@ div#project {
 
 div.projectpanel {
     width: 100%;
-    margin: 20px;
+    margin: 20px 0;
 }
 
 div.projectpanel > p > img {
@@ -414,10 +415,8 @@ div.projectpanel > div.projectphotos > img.artimage {
         max-width: 90vw;
     }
 
-    div.projectpanel > div.projectphotos > img.artimage {
-        width: 90%;
-        margin: 0;
-        margin-bottom: 20px;
+    div.projectpanel > div.projectphotos  {
+        display: none;
     }
 }
 
