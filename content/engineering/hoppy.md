@@ -75,9 +75,11 @@ We prototyped... a lot. CAD, assembly, and 3D printing were split between all me
 ![Hoppy Pins](/img/hoppypins.png)
 ![Hoppy All Prototypes](/img/hoppyallprotos.png)
 
-## Arduino
+## Arduino + Electronics
 
-I did all of the Arduino for this project. The electronic components used in Hoppy are an Arduino Uno, [reflective IR optical sensor](https://www.adafruit.com/product/2349), [28BYJ-48 stepper motor, ULN2003 stepper motor driver](shorturl.at/hKNW0), sliding potentiometer, and button.
+I did all of the Arduino and electronics for this project. The electronic components used in Hoppy are an Arduino Uno, [reflective IR optical sensor](https://www.adafruit.com/product/2349), [28BYJ-48 stepper motor, ULN2003 stepper motor driver](shorturl.at/hKNW0), sliding potentiometer, and button. The electronics are laid out below; I later solder some wires together.
+
+![Hoppy Electronics](/img/hoppyelectronics.png)
 
 I wrote the Arduino code in C++. Some of the key lines of the code are below:
 
@@ -103,9 +105,17 @@ Below are some renders of the final Hoppy design done in Keyshot.**
 Here are some product images I took and edited!
 ![Hoppy Product Images](/img/hoppyfinal.png)
 
-
 Next steps would be to package the electronics inside Hoppy, potentially submit Hoppy to a design competition, and maybe patent it. :)
 
+## Bonus: People Using Hoppy
+
+Will making consistent 2mm slices:
+<iframe src="https://drive.google.com/file/d/1ETL_O3dWgfhYkOqFqARmUIF3ES5pwQSB/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Our professor Chris Bull and our classmates using Hoppy:
+![Hoppy Chris Bull](/img/hoppychrisbull.jpg)
+
+If you have specific questions about the design and build process, feel free to reach out.
 
 *Alice's work.
 
