@@ -1,7 +1,7 @@
 ---
 title: "Bolt Latch (Boeing)"
 layout: "project"
-weight: 0
+weight: 1
 type: "engineering"
 name: "bolt"
 description: "CAD, DFM, DFA, Mass Production"

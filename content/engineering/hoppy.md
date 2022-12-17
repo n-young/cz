@@ -1,7 +1,7 @@
 ---
 title: "Hoppy"
 layout: "project"
-weight: 1
+weight: 0
 type: "engineering"
 name: "hoppy"
 description: "User Research, Rapid Prototyping, Arduino"
