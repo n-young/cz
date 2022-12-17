@@ -77,9 +77,11 @@ We prototyped... a lot. CAD, assembly, and 3D printing were split between all me
 
 ## Arduino + Electronics
 
-I did all of the Arduino and electronics for this project. The electronic components used in Hoppy are an Arduino Uno, [reflective IR optical sensor](https://www.adafruit.com/product/2349), [28BYJ-48 stepper motor, ULN2003 stepper motor driver](shorturl.at/hKNW0), sliding potentiometer, and button. The electronics are laid out below; I later solder some wires together.
+I did all of the Arduino and electronics for this project. The electronic components used in Hoppy are an Arduino Uno, [reflective IR optical sensor](https://www.adafruit.com/product/2349), [28BYJ-48 stepper motor, ULN2003 stepper motor driver](shorturl.at/hKNW0), sliding potentiometer, and reset button. The electronics are laid out in the video below; I later solder some wires together.
 
-![Hoppy Electronics](/img/hoppyelectronics.png)
+Here is a video of me testing the electronics with one of our mid-stage prototypes. My finger acts as the knife, and the button on the breadboard resets the guides to their fully extended position.
+
+<iframe src="https://drive.google.com/file/d/1EnGN6mBB5_EcR_r4I3JE-M4waedxKc7_/preview" width="640" height="480" allow="autoplay"></iframe>
 
 I wrote the Arduino code in C++. Some of the key lines of the code are below:
 
