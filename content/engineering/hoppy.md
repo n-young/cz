@@ -9,11 +9,11 @@ description: "User Research, Rapid Prototyping, Arduino"
 
 # Hoppy
 
-Hoppy was a project done in ENGN1930D: Industrial Design. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
+Hoppy was a project done in ENGN1930M: Industrial Design. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
 
 ## Problem
 
-Many people find cutting vegetables and fruits difficult, especially with factors such as age (young and old), lighting conditions, eyesight, strength, and fear. We decided to design and build a product -- Hoppy -- to aid in the cutting process while still allowing cooks to enjoy the tactile experience of cutting.
+Many people find cutting vegetables and fruits difficult, especially with factors such as age (both young and old), lighting conditions, eyesight, muscle strength, and fear. We decided to design and build a product -- Hoppy -- to aid in the cutting process while still allowing cooks to enjoy the tactile experience of cutting.
 
 ## User/Product Research
 
@@ -23,18 +23,27 @@ We began by researching existing accessible kitchenware such as the ones below:
 Key features include bright colors, rounded edges, tactile cues (e.g. grooves), and distance (keeping knife away from user).
 
 We also interviewed 41 people ranging from 20 to 85 years old.
+
 → Most people said they were afraid of cutting their fingers and that cutting thin pieces consistently was difficult.
+
 → More than half (56%) said they enjoy cutting because the tactile sensation is satisfying.
+
 → 56% said they would rather use smaller cutting aids/gadgets than fully automatic cutting machines.
 
 ## Design Constraints
 
 Using the data we collected from our user research, we decided on the following design constraints:
+
 → Size: maximum 10" x 10" x 10"
+
 → Step size variation: 2 - 20 mm
+
 → Ergonomics: easy for people with reduced mobility and vision, for both lefties and righties
+
 → Weight: maximum 4 lbs
+
 → Cleanup: smooth body, limit # of exposed components
+
 
 ## Mockups
 
@@ -46,8 +55,11 @@ We each built a looks-like mockup with basic functionality to test if general fo
 
 There were 2 key functionalities to decide between:
 1) Guides moving (knife guides "reveal" on food where to cut)*
+
 ![Hoppy Platform Idea](/img/hoppyplatformidea.png)
+
 2) Platform moving (advances food into guides)*
+
 ![Hoppy Guides Idea](/img/hoppyguidesidea.png)
 
 
@@ -65,11 +77,19 @@ We prototyped... a lot. CAD, assembly, and 3D printing were split between all me
 
 ## Arduino
 
-I did all of the Arduino for this project. The electronic components used in Hoppy are an Arduino Uno, reflective IR optical sensor (https://www.adafruit.com/product/2349), 28BYJ-48 stepper motor, ULN2003 stepper motor driver (shorturl.at/hKNW0), sliding potentiometer, and button.
+I did all of the Arduino for this project. The electronic components used in Hoppy are an Arduino Uno, [reflective IR optical sensor](https://www.adafruit.com/product/2349), [28BYJ-48 stepper motor, ULN2003 stepper motor driver](shorturl.at/hKNW0), sliding potentiometer, and button.
 
 I wrote the Arduino code in C++. Some of the key lines of the code are below:
-→ To map sliding potentiometer position to motor stepsize: motor_stepsize=map(value_potentiometer,0,1024,0,revolution/5)
-→ To move motor one step if IR sensor senses a knife cutting down then lifting up (no movement if knife is held there): if (current_value_IR - previous_value_IR < 0) {stepper.step(motor_stepsize);}
+
+→ To map sliding potentiometer position to motor stepsize:
+
+![Hoppy Arduino 1](/img/hoppyarduino1.png)
+
+
+→ To move motor one step if IR sensor senses a knife cutting down then lifting up (no movement if knife is held there):
+
+![Hoppy Arduino 2](/img/hoppyarduino2.png)
+
 
 ## Final Product
 
@@ -83,8 +103,10 @@ Below are some renders of the final Hoppy design done in Keyshot.**
 Here are some product images I took and edited!
 ![Hoppy Product Images](/img/hoppyfinal.png)
 
+
 Next steps would be to package the electronics inside Hoppy, potentially submit Hoppy to a design competition, and maybe patent it. :)
----
+
 
 *Alice's work.
+
 **Will's work.
