@@ -1,7 +1,7 @@
 ---
 title: "Hasbro (NERF)"
 layout: "project"
-weight: 0
+weight: 1
 type: "engineering"
 name: "nerf"
 description: "Mechanism Design, CAD, Injection Molding, DOE"

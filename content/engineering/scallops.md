@@ -1,7 +1,7 @@
 ---
 title: "Scallop Music Box"
 layout: "project"
-weight: 0
+weight: 1
 type: "engineering"
 name: "scallops"
 description: "Design, CAD, Woodworking, Circuitry"

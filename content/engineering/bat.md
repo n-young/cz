@@ -1,7 +1,7 @@
 ---
 title: "Bat Wing"
 layout: "project"
-weight: 1
+weight: 3
 type: "engineering"
 name: "bat"
 description: "Troubleshooting, Building"
