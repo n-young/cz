@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous CAD"
 layout: "project"
-weight: 2
+weight: 3
 type: "engineering"
 name: "cad"
 description: "CAD, Drawings, FEA"

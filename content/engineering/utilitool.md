@@ -1,7 +1,7 @@
 ---
 title: "Utilitool"
 layout: "project"
-weight: 2
+weight: 1
 type: "engineering"
 name: "utilitool"
 description: "Design, CAD, Market Research, Competitor Research"
