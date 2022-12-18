@@ -9,7 +9,7 @@ description: "User Research, Rapid Prototyping, Arduino"
 
 # Hoppy
 
-Hoppy was a project done in ENGN1930M: Industrial Design. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
+Hoppy was a project done in ENGN1930M: Industrial Design in Fall 2022. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
 
 ## Problem
 
