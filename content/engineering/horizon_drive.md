@@ -10,7 +10,7 @@ description: "CNC Manufacturing, Drawings, Plating"
 
 # Horizon Drive
 
-This project is under the USC Space Engineering Research Center (SERC). The purpose of this research project is to create a propellantless propulsion system using the theory of quantized inertia. I worked on designing and manufacturing the Horizon Drive cavity, which is made up of the bowl and the spikes.
+This project is under the USC Space Engineering Research Center (SERC), done in Summer 2020. The purpose of this research project is to create a propellantless propulsion system using the theory of quantized inertia. I worked on designing and manufacturing the Horizon Drive cavity, which is made up of the bowl and the spikes.
 
 ## Problem
 

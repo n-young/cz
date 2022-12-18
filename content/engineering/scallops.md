@@ -12,6 +12,8 @@ description: "Design, CAD, Woodworking, Circuitry"
 
 The swarm scallops project aims to raise awareness of human interference on natural habitats and environments, negatively impacting sea life such as scallops. Scallops are one of few shellfish with the ability to swim, but, observed in their natural habitats, they do so sparingly and leisurely. It is only when they are being fished that they swim quickly. The viewer, through their interaction, gets to decide the context of the piece: are the scallops swimming in their lush beds of eelgrass, or are they running frantically, fighting for their survival? Turn the knob and the stakes rise.
 
+This project was done in Fall 2021.
+
 
 ## Brainstorm
 

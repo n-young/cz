@@ -11,7 +11,7 @@ description: "CAD, Drawings, FEA"
 
 ## Overview
 
-Here are some pretty pictures. Details of my 3D modeling processes are below.
+Here are some of my favorite CAD models I've made. Details of my 3D modeling processes are below.
 
 ![Lambo Final](/img/Lambo7.PNG)
 ![Barcelona Pavilion Final](/img/barcelonapavilion4_2.PNG)
