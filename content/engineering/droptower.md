@@ -9,7 +9,7 @@ description: "CAD, DFM, DFA, Arduino"
 
 # Drop Tower
 
-In Fall 2022 for my ENGN1931D: Design of Mechanical Assemblies class, my team (Kevin LoGiudice, Venkatsai Bellala, Zabari Ross, and I) built a drop tower to impact biological samples, ranging from soft tissue to bone, in a sterile environment by varying weights and drop heights to control the applied force so the sample is damaged but not fractured.
+In Fall 2022, my team (Kevin LoGiudice, Venkatsai Bellala, Zabari Ross, and I) built a drop tower to impact biological samples, ranging from soft tissue to bone, in a sterile environment by varying weights and drop heights to control the applied force so the sample is damaged but not fractured.
 
 ## Process
 

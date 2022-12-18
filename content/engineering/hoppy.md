@@ -9,7 +9,7 @@ description: "User Research, Rapid Prototyping, Arduino"
 
 # Hoppy
 
-Hoppy was a project done in ENGN1930M: Industrial Design in Fall 2022. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
+Hoppy was a project done in Fall 2022. My team consisted of Alice You (RISD), Will Feng (RISD), and me (BrownU). To highlight the work I did for this project, most of this page will detail my contributions.
 
 ## Problem
 
@@ -114,7 +114,7 @@ Next steps would be to package the electronics inside Hoppy, potentially submit 
 Will making consistent 2mm slices:
 <iframe src="https://drive.google.com/file/d/1ETL_O3dWgfhYkOqFqARmUIF3ES5pwQSB/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Our professor Chris Bull and our classmates using Hoppy:
+Professor Chris Bull and classmates using Hoppy:
 ![Hoppy Chris Bull](/img/hoppychrisbull.jpg)
 
 Thank you for reading! If you have specific questions about the design and build process, feel free to reach out.
