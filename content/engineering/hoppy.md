@@ -117,7 +117,7 @@ Will making consistent 2mm slices:
 Our professor Chris Bull and our classmates using Hoppy:
 ![Hoppy Chris Bull](/img/hoppychrisbull.jpg)
 
-If you have specific questions about the design and build process, feel free to reach out.
+Thank you for reading! If you have specific questions about the design and build process, feel free to reach out.
 
 *Alice's work.
 
