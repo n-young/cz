@@ -56,15 +56,15 @@ We each built a looks-like mockup with basic functionality to test if general fo
 There were 2 key functionalities to decide between:
 1) Guides moving (knife guides "reveal" on food where to cut)*
 
-![Hoppy Platform Idea](/img/hoppyplatformidea.png)
+![Hoppy Platform Idea](/img/hoppyguidesidea.png)
 
 2) Platform moving (advances food into guides)*
 
-![Hoppy Guides Idea](/img/hoppyguidesidea.png)
+![Hoppy Guides Idea](/img/hoppyplatformidea.png)
 
 
 ## CAD
-My preliminary CAD is below, although we ended up going through many design iterations and building off of these original versions. In this CAD design, I focused on designing for injection molding as well as ease of assembly (e.g. making holes for the screwdriver shaft).
+Ultimately, we decided to go with the guides moving idea. My preliminary CAD is below, although we ended up going through many design iterations and building off of these original versions. In this CAD design, I focused on designing for injection molding as well as ease of assembly (e.g. making holes for the screwdriver shaft).
 ![Hoppy Solidworks](/img/hoppycadproto-min.png)
 
 ## Prototypes
