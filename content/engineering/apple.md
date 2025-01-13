@@ -28,13 +28,20 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 
 ## September 2022 Submission
 
+Please email me at christineezhou@gmail.com for detailed solution, which includes brainstorming sketches, DFM, DFA, force calculations, FEA, BOM, and decision matrix.
+
 ![Apple Design Test 1](/img/PDChallenge/0001.jpg)
 ![Apple Design Test 2](/img/PDChallenge/0002.jpg)
 ![Apple Design Test 3](/img/PDChallenge/0003.jpg)
+<!--
 ![Apple Design Test 4](/img/PDChallenge/0004.jpg)
+-->
 ![Apple Design Test 5](/img/PDChallenge/0005.jpg)
+<!--
 ![Apple Design Test 6](/img/PDChallenge/0006.jpg)
+-->
 ![Apple Design Test 7](/img/PDChallenge/0007.jpg)
+<!--
 ![Apple Design Test 8](/img/PDChallenge/0008.jpg)
 ![Apple Design Test 9](/img/PDChallenge/0009.jpg)
 ![Apple Design Test 10](/img/PDChallenge/0010.jpg)
@@ -43,11 +50,13 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 ![Apple Design Test 13](/img/PDChallenge/0013.jpg)
 ![Apple Design Test 14](/img/PDChallenge/0014.jpg)
 ![Apple Design Test 15](/img/PDChallenge/0015.jpg)
+-->
 
 ## April 2021 Submission
 
 <div class="sketchfab-embed-wrapper"> <iframe title="iPod Battery Door" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/23cf19aac5684e8ab7db5c3cc2f93f60/embed"> </iframe> </div>
 
+<!--
 ![Apple Design Test 1](/img/AppleDesignTest2.jpg)
 ![Apple Design Test 2](/img/AppleDesignTest22.jpg)
 ![Apple Design Test 3](/img/AppleDesignTest23.jpg)
@@ -62,3 +71,4 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 ![Apple Design Test 12](/img/AppleDesignTest212.jpg)
 ![Apple Design Test 13](/img/AppleDesignTest213.jpg)
 ![Apple Design Test 14](/img/AppleDesignTest214.jpg)
+-->
