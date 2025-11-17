@@ -28,8 +28,9 @@ Note carefully the mechanism requirement: a downward force on the button, normal
 
 ## September 2022 Submission
 
-Please email me at christineezhou@gmail.com for detailed solution, which includes brainstorming sketches, DFM, DFA, force calculations, FEA, BOM, and decision matrix.
+Full detailed solution has been redacted for privacy reasons.
 
+<!--which includes brainstorming sketches, DFM, DFA, force calculations, FEA, BOM, and decision matrix.-->
 ![Apple Design Test 1](/img/PDChallenge/0001.jpg)
 ![Apple Design Test 2](/img/PDChallenge/0002.jpg)
 ![Apple Design Test 3](/img/PDChallenge/0003.jpg)
