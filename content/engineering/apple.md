@@ -36,13 +36,10 @@ Full detailed solution has been redacted for privacy reasons.
 ![Apple Design Test 3](/img/PDChallenge/0003.jpg)
 <!--
 ![Apple Design Test 4](/img/PDChallenge/0004.jpg)
--->
 ![Apple Design Test 5](/img/PDChallenge/0005.jpg)
 <!--
 ![Apple Design Test 6](/img/PDChallenge/0006.jpg)
--->
 ![Apple Design Test 7](/img/PDChallenge/0007.jpg)
-<!--
 ![Apple Design Test 8](/img/PDChallenge/0008.jpg)
 ![Apple Design Test 9](/img/PDChallenge/0009.jpg)
 ![Apple Design Test 10](/img/PDChallenge/0010.jpg)
@@ -52,6 +49,8 @@ Full detailed solution has been redacted for privacy reasons.
 ![Apple Design Test 14](/img/PDChallenge/0014.jpg)
 ![Apple Design Test 15](/img/PDChallenge/0015.jpg)
 -->
+
+I designed 2 mechanism options but as of 2026 am choosing to keep them private. Thank you for understanding!
 
 ## April 2021 Submission
 
